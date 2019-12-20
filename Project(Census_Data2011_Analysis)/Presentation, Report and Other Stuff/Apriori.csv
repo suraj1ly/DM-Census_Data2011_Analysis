@@ -1,0 +1,640 @@
+State Name,District Name,Total Literacy Rate (%),Total Literacy Rate Urban (%),Total Literacy Rate Rural (%),Total Literacy Rate Male (%),Total Literacy Rate Male Urban (%),Total Literacy Rate Male Rural (%),Total Literacy Rate Female (%),Total Literacy Rate Urban Female (%),Total Literacy Rate Rural Female (%),Education (%),Medical (%),Post Office (%),Telephone (%),Transport Communications (%),Banks (%),Agricultural  Credit Societies (%),Approach by Pucca Road (%),Total Workers (%),Total Male Workers (%),Total Female Workers (%),Total Slum Population,Slum Population (%),Rural Population (%),Urban Population (%),Total good condition households (%),Total livable condition households (%),Total dilapidated condition households (%),Rural good condition households (%),Rural livable condition households (%),Rural dilapidated condition households (%),Urban good condition households (%),Urban livable condition households (%),Urban dilapidated condition households (%),Total Material of house roof is concrete (%),Rural Material of house roof is concrete (%),Urban Material of house roof is concrete (%),Total tapwater from treated source (%),Rural tapwater from treated source (%),Urban tapwater from treated source (%),Total Location of drinking water resource (%),Rural Location of drinking water resource (%),Urban Location of drinking water resource (%),Total Electricity as Lightning Source (%),Rural Electricity as Lightning Source (%),Urban Electricity as Lightning Source (%),Total Latrine facility within premises (%),Rural Latrine facility within premises (%),Urban Latrine facility within premises (%),Total Bathroom with roof within premises (%),Rural Bathroom with roof within premises (%),Urban Bathroom with roof within premises (%),Total Bathroom without roof within premises (%),Rural Bathroom without roof within premises (%),Urban Bathroom without roof within premises (%),Total waste water outlet connect to closed drainage (%),Rural waste water outlet connect to closed drainage (%),Urban waste water outlet connect to closed drainage (%),Total waste water outlet connect to open drainage (%),Rural waste water outlet connect to open drainage (%),Urban waste water outlet connect to open drainage (%),Total Fuel Used LPG+Biogas (%),Rural Fuel Used LPG+Biogas (%),Urban Fuel Used LPG+Biogas (%),Total cooking inside house (%),Rural cooking inside house (%),Urban cooking inside house (%),Total cooking outside house (%),Rural cooking outside house (%),Urban cooking outside house (%),Total no cooking (%),Rural no cooking (%),Urban no cooking (%),Total households availing banking services (%),Rural households availing banking services (%),Urban households availing banking services (%),Total households with no assets (%),Rural households with no assets (%),Urban households with no assets (%)
+Andaman and Nicobar Islands,Nicobars,L,S,L,L,S,L,L,S,L,M,M,S,M,M,S,S,M,M,M,S,S,S,M,M,L,S,S,L,S,S,L,S,S,S,S,S,L,L,L,M,M,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,S,S,S,M,M,M,L,L,M,S,S,M,S,S,S,L,L,L,S,S,S
+Andaman and Nicobar Islands,North  & Middle Andaman,L,L,L,L,L,L,L,L,L,M,M,S,M,M,S,S,M,M,M,S,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,M,M,L,M,M,M,L,L,L,M,M,M,M,M,M,S,S,M,S,S,S,S,S,S,S,S,S,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Andaman and Nicobar Islands,South Andaman,L,L,L,L,L,L,L,L,L,M,M,S,L,L,S,S,L,M,M,S,L,S,M,M,L,S,S,M,M,S,L,S,S,S,S,S,L,M,L,L,M,L,L,L,L,L,M,L,L,M,L,S,S,S,S,S,S,M,M,L,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Andhra Pradesh,Adilabad,M,L,M,L,L,M,M,L,M,L,M,S,L,M,S,S,L,M,M,M,L,M,L,S,M,S,S,M,M,S,L,S,S,S,S,M,S,S,M,M,S,M,L,L,L,S,S,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Andhra Pradesh,Anantapur,M,L,M,L,L,L,M,L,M,L,L,M,L,L,S,S,L,M,M,M,L,M,L,S,L,S,S,L,S,S,L,S,S,S,S,M,M,M,L,S,S,M,L,L,L,M,S,L,M,M,L,S,S,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Andhra Pradesh,Chittoor,L,L,L,L,L,L,M,L,M,L,M,M,L,L,S,S,L,M,M,M,L,S,L,S,L,S,S,L,S,S,L,S,S,M,M,L,M,M,M,M,S,M,L,L,L,M,S,L,M,M,L,S,S,S,S,S,M,M,S,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Andhra Pradesh,East Godavari,L,L,L,L,L,L,L,L,M,L,M,M,L,M,S,S,M,M,M,S,L,M,L,S,L,S,S,M,S,S,L,S,S,M,M,L,M,M,L,M,M,M,L,L,L,M,M,L,M,M,L,S,S,S,S,S,S,M,S,M,M,S,L,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Andhra Pradesh,Guntur,L,L,M,L,L,L,M,L,M,L,L,L,L,L,S,S,L,M,M,M,L,M,M,M,L,S,S,M,S,S,L,S,S,M,M,M,M,M,L,M,S,M,L,L,L,M,M,L,M,M,L,S,S,S,S,S,S,M,M,M,M,M,L,L,M,L,S,M,S,S,S,S,M,M,M,S,S,S
+Andhra Pradesh,Hyderabad,L,L,S,L,L,S,L,L,S,S,S,S,S,S,S,S,S,M,M,S,L,S,S,L,L,S,S,L,S,S,L,S,S,L,L,M,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,L,L,L,S,S,S,L,L,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Andhra Pradesh,Karimnagar,M,L,M,L,L,L,M,L,M,L,L,L,L,L,S,S,L,M,M,M,L,M,L,S,M,S,S,M,S,S,L,S,S,S,S,M,M,M,L,M,M,L,L,L,L,M,M,L,M,S,L,S,S,S,S,S,M,M,M,M,M,S,L,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Andhra Pradesh,Khammam,M,L,M,L,L,L,M,L,M,L,M,M,L,M,S,S,L,M,M,M,L,M,L,S,M,S,S,M,M,S,L,S,S,M,M,M,M,S,L,M,M,M,L,L,L,M,M,L,M,S,L,S,S,S,S,S,S,S,S,M,S,S,M,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Andhra Pradesh,Krishna,L,L,L,L,L,L,L,L,M,L,L,L,L,L,S,M,L,M,M,S,L,S,M,M,L,S,S,M,S,S,L,S,S,M,M,M,M,M,L,M,S,L,L,L,L,L,M,L,M,M,L,S,S,S,S,S,M,M,M,M,M,M,L,L,M,L,S,M,S,S,S,S,M,M,M,S,S,S
+Andhra Pradesh,Kurnool,M,L,M,L,L,M,M,M,M,L,L,L,L,L,S,S,L,M,M,M,L,M,L,S,L,S,S,L,S,S,L,S,S,M,M,M,M,M,L,S,S,M,L,L,L,M,S,L,M,M,L,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Andhra Pradesh,Mahbubnagar,M,L,M,M,L,M,M,L,M,L,L,M,L,L,S,S,L,M,M,M,L,M,L,S,M,S,S,M,S,S,L,S,S,M,M,L,M,S,M,S,S,M,L,L,L,S,S,L,S,S,L,S,S,S,S,S,M,M,M,M,S,S,M,L,M,L,S,M,S,S,S,S,M,M,M,S,S,S
+Andhra Pradesh,Medak,M,L,M,L,L,L,M,L,M,L,M,M,L,L,S,S,L,M,M,M,L,M,L,S,M,S,S,M,M,S,L,S,S,S,S,M,M,M,L,M,M,M,L,L,L,M,S,L,M,M,L,S,S,S,S,S,M,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Andhra Pradesh,Nalgonda,M,L,M,L,L,L,M,L,M,L,L,M,L,L,S,S,L,M,M,M,L,M,L,S,M,S,S,M,M,S,L,S,S,M,M,M,S,S,M,M,M,M,L,L,L,M,S,L,M,S,L,S,S,S,S,S,S,M,S,M,S,S,M,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Andhra Pradesh,Nizamabad,M,L,M,L,L,L,M,L,M,L,L,M,L,L,S,S,L,M,M,M,L,M,L,S,M,S,S,M,S,S,L,S,S,M,S,M,M,M,M,M,M,M,L,L,L,M,S,L,M,S,L,S,M,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Andhra Pradesh,Prakasam,M,L,M,L,L,L,M,L,M,L,L,L,L,L,S,S,L,M,M,M,L,M,L,S,L,S,S,M,S,S,L,S,S,M,M,M,M,S,M,S,S,M,L,L,L,M,S,L,M,S,L,S,S,S,S,S,S,M,S,M,M,S,L,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Andhra Pradesh,Rangareddy,L,L,M,L,L,L,L,L,M,L,M,M,L,L,S,S,L,M,M,S,L,S,S,L,L,S,S,L,S,S,L,S,S,M,S,L,L,M,L,L,M,L,L,L,L,L,M,L,L,M,L,S,S,S,L,S,L,S,M,S,M,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Andhra Pradesh,Sri Potti Sriramulu Nellore,L,L,M,L,L,L,M,L,M,L,L,M,L,L,S,S,L,M,M,S,L,S,L,S,M,S,S,M,S,S,L,S,S,M,M,L,S,S,M,S,S,M,L,L,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,M,S
+Andhra Pradesh,Srikakulam,M,L,M,L,L,L,M,L,M,L,L,S,L,M,S,S,L,M,M,M,L,M,L,S,L,S,S,L,S,S,L,S,S,M,M,M,M,M,M,M,M,M,L,L,L,M,S,L,M,S,L,S,S,S,S,S,S,S,S,M,S,S,M,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Andhra Pradesh,Visakhapatnam,L,L,M,L,L,M,M,L,M,L,L,S,M,S,S,S,S,M,M,S,L,M,M,M,L,S,S,L,S,S,L,S,S,M,M,L,M,S,M,M,S,M,L,L,L,M,S,L,M,S,L,S,S,S,S,S,M,M,S,M,M,S,L,L,M,L,S,M,S,S,S,S,M,M,M,S,M,S
+Andhra Pradesh,Vizianagaram,M,L,M,L,L,M,M,L,M,L,M,S,L,M,S,S,M,M,M,M,L,M,L,S,L,S,S,M,S,S,L,S,S,M,M,L,M,S,L,S,S,M,L,L,L,S,S,M,S,S,L,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,M,S
+Andhra Pradesh,Warangal,M,L,M,L,L,L,M,L,M,L,L,L,L,L,S,S,L,M,M,M,L,M,L,S,M,M,S,M,M,S,L,S,S,M,S,M,M,S,M,M,M,L,L,L,L,M,S,L,M,S,L,S,S,S,S,S,S,S,S,M,S,S,M,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Andhra Pradesh,West Godavari,L,L,L,L,L,L,L,L,L,L,L,M,L,L,S,S,L,M,M,S,L,M,L,S,L,S,S,M,S,S,L,S,S,M,M,M,L,L,L,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,S,M,M,M,M,M,L,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Andhra Pradesh,Y.S.R,L,L,M,L,L,L,M,L,M,L,M,M,L,L,S,S,L,M,M,M,L,M,M,M,L,S,S,L,S,S,L,S,S,M,M,M,M,M,L,M,S,M,L,L,L,M,S,L,M,M,L,S,M,S,S,S,M,S,S,M,S,S,M,L,M,L,S,M,S,S,S,S,M,M,M,S,S,S
+Arunachal Pradesh,Anjaw,M,L,M,L,L,M,M,L,M,S,S,S,S,S,S,S,S,M,M,M,S,S,L,S,M,M,S,M,M,S,S,L,S,S,S,S,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,M,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,M,M,S
+Arunachal Pradesh,Changlang,M,L,M,L,L,M,M,L,M,L,S,S,L,S,S,S,M,M,M,S,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,M,M,M,M,M,L,L,M,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,S,S,L,S,S,S
+Arunachal Pradesh,Dibang Valley,M,L,M,L,L,M,M,L,M,S,S,S,S,S,S,S,L,M,M,M,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,M,M,L,M,M,L,L,M,L,S,S,M,S,S,S,S,S,S,M,S,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,M,M,S
+Arunachal Pradesh,East Kameng,M,L,M,L,L,M,M,L,M,M,S,S,S,S,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,M,S,M,S,S,M,M,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,M,S,L,M,L,S
+Arunachal Pradesh,East Siang,L,L,L,L,L,L,M,L,M,L,M,S,M,M,S,S,S,M,M,M,L,S,L,S,M,M,S,L,S,S,M,M,S,S,S,S,S,S,S,M,S,M,L,M,L,M,M,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Arunachal Pradesh,Kurung Kumey,M,L,M,M,L,M,M,M,M,M,S,S,S,S,S,S,S,M,M,M,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,S,S,S,L,S,S,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,S,S,L,M,M,S
+Arunachal Pradesh,Lohit,L,L,M,L,L,L,M,L,M,L,S,S,L,S,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,M,M,L,M,M,L,M,M,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,S,L,S,S,S
+Arunachal Pradesh,Lower Dibang Valley,L,L,M,L,L,L,M,L,M,M,S,S,L,S,S,S,M,M,M,S,S,S,L,S,M,M,S,M,M,S,M,S,S,S,S,S,S,S,S,M,M,L,M,M,L,M,M,L,S,S,L,S,S,S,S,S,S,S,S,L,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Arunachal Pradesh,Lower Subansiri,L,L,L,L,L,L,L,L,M,M,S,S,M,S,S,S,S,M,M,S,S,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,S,S,M,M,M,L,L,L,L,L,L,L,M,S,L,S,S,S,S,S,S,M,M,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Arunachal Pradesh,Papum Pare,L,L,L,L,L,L,L,L,L,L,S,S,M,S,S,S,S,M,M,S,S,S,M,M,M,M,S,M,M,S,M,S,S,S,S,S,M,S,L,M,M,L,L,L,L,L,M,L,M,S,L,S,S,S,S,S,S,M,S,M,L,M,L,L,L,L,S,S,S,S,S,S,L,M,L,S,S,S
+Arunachal Pradesh,Tawang,M,L,M,L,L,M,M,L,M,M,S,S,M,S,S,S,S,M,L,M,S,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,M,M,L,M,S,L,L,L,L,L,L,L,S,S,L,S,S,S,S,S,S,M,S,L,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,M,M,S
+Arunachal Pradesh,Tirap,M,L,M,M,L,M,M,L,M,L,S,S,M,S,S,S,M,M,M,M,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,M,L,L,L,L,L,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,M,L,M,M,S
+Arunachal Pradesh,Upper Siang,M,L,M,M,L,M,M,L,M,L,S,S,M,S,S,S,S,M,M,M,S,S,L,S,M,S,S,L,S,S,M,M,S,S,S,S,M,M,M,M,S,L,L,L,L,M,M,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,M,M,S
+Arunachal Pradesh,Upper Subansiri,M,L,M,L,L,L,M,L,M,M,S,S,S,S,S,S,S,M,M,M,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,L,S,S,L,M,S,L,M,M,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,M,M,S
+Arunachal Pradesh,West Kameng,L,L,M,L,L,L,M,L,M,M,S,S,M,S,S,S,S,M,M,M,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,M,M,L,M,M,M,L,L,L,M,M,L,M,S,L,S,S,S,S,S,S,S,S,L,M,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,M,S
+Arunachal Pradesh,West Siang,M,L,M,L,L,L,M,L,M,L,S,S,M,S,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,S,S,S,M,M,L,L,M,L,L,L,L,S,S,L,S,S,S,S,S,S,M,S,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,M,S
+Assam,Baksa,L,L,L,L,L,L,M,L,M,L,L,S,L,M,S,S,S,M,M,S,S,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,M,M,M,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,S,L,L,L,S,S,S,S,S,S,M,S,M,S,S,S
+Assam,Barpeta,M,L,M,L,L,L,M,L,M,L,L,S,L,L,S,S,M,S,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,L,L,L,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,M,M,L,M,M,S,S,S,S,M,M,L,S,S,S
+Assam,Bongaigaon,L,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,S,M,M,S,L,S,L,S,S,M,S,S,M,S,L,S,S,S,S,S,S,S,S,L,M,L,S,S,L,M,M,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,L,M,M,L,M,M,S,S,S,S,M,M,L,S,S,S
+Assam,Cachar,L,L,L,L,L,L,L,L,L,L,L,S,L,M,S,S,S,M,M,S,L,S,L,S,M,M,S,S,M,S,M,M,S,S,S,S,M,S,M,S,S,M,M,S,L,L,L,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,M,M,S
+Assam,Chirang,M,L,M,L,L,L,M,L,M,L,M,S,M,M,S,S,S,M,M,S,L,M,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,M,S,S,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Assam,Darrang,M,L,M,L,L,M,M,L,M,L,L,S,L,L,S,S,M,M,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,L,M,M,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Assam,Dhemaji,L,L,L,L,L,L,M,L,M,L,M,S,M,M,S,S,S,M,M,M,S,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,L,M,M,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,S,L,S,S,S
+Assam,Dhubri,M,L,M,M,L,M,M,L,M,L,L,S,L,L,S,S,S,M,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,L,M,M,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,M,M,L,M,M,S,S,S,S,S,S,M,M,M,S
+Assam,Dibrugarh,L,L,L,L,L,L,L,L,M,L,M,S,L,M,S,S,S,M,M,S,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,S,S,S,S,L,M,L,M,M,L,L,L,L,M,S,L,S,M,S,S,S,S,M,S,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Assam,Dima Hasao,L,L,L,L,L,L,L,L,M,L,S,S,M,M,S,S,S,M,M,S,S,S,L,S,M,M,S,S,M,S,M,M,S,S,S,S,S,S,M,S,S,M,M,S,L,L,M,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,M,M,S
+Assam,Goalpara,L,L,M,L,L,L,M,L,M,L,M,S,L,L,S,S,S,M,M,S,S,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,M,L,M,M,M,M,M,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,M,M,L,M,M,S,S,S,S,S,S,M,S,S,S
+Assam,Golaghat,L,L,L,L,L,L,L,L,L,L,M,S,L,M,S,S,S,M,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,M,L,M,S,L,L,M,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Assam,Hailakandi,L,L,L,L,L,L,L,L,M,L,L,S,L,L,S,S,M,S,M,S,L,S,L,S,S,M,S,S,M,S,M,S,S,S,S,S,S,S,M,S,S,M,S,S,L,L,L,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,M,M,S
+Assam,Jorhat,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,S,S,M,M,S,L,S,L,S,M,M,S,S,M,S,M,M,S,S,S,S,S,S,M,M,M,L,M,M,L,L,M,L,M,S,L,S,S,S,S,S,S,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Assam,Kamrup,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,S,S,M,M,S,S,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,M,L,M,M,L,M,M,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,L,M,L,S,S,S,S,S,S,M,M,L,S,S,S
+Assam,Kamrup Metropolitan,L,L,L,L,L,L,L,L,L,L,M,S,L,M,S,S,S,M,M,S,L,S,S,L,M,S,S,M,M,S,L,S,S,S,S,S,S,S,S,L,M,L,L,M,L,L,M,L,L,S,L,S,S,S,S,S,S,M,S,M,L,S,L,L,L,L,S,S,S,S,S,S,L,M,L,S,S,S
+Assam,Karbi Anglong,L,L,L,L,L,L,M,L,M,M,S,S,M,M,S,S,S,M,M,S,S,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,S,M,S,S,L,M,M,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Assam,Karimganj,L,L,L,L,L,L,L,L,L,L,L,S,L,M,S,S,S,S,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,M,S,S,M,S,S,L,L,L,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,M,M,S
+Assam,Kokrajhar,M,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,S,M,M,S,S,S,L,S,M,M,S,S,M,S,L,S,S,S,S,S,S,S,S,M,M,L,S,S,L,S,S,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,M,M,L,M,M,S,S,S,S,M,S,L,S,S,S
+Assam,Lakhimpur,L,L,L,L,L,L,L,L,L,L,M,S,L,M,S,S,S,M,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,L,M,M,L,S,S,L,S,S,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Assam,Morigaon,L,L,M,L,L,L,M,L,M,L,M,S,M,M,S,S,S,M,M,S,S,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,L,L,L,S,S,L,M,M,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Assam,Nagaon,L,L,L,L,L,L,L,L,M,L,L,S,L,M,S,S,M,M,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,M,L,M,S,L,L,L,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,M,L,S,M,S,S,S,S,M,S,L,S,S,S
+Assam,Nalbari,L,L,L,L,L,L,L,L,L,L,L,S,L,L,S,S,S,M,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,L,L,L,M,M,L,L,M,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Assam,Sivasagar,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,S,S,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,M,M,L,M,M,L,L,L,L,M,M,L,S,S,S,S,S,S,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Assam,Sonitpur,L,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,S,M,M,S,L,S,L,S,M,M,S,S,M,S,M,S,S,S,S,S,S,S,S,M,M,L,M,S,L,M,M,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Assam,Tinsukia,L,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,S,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,M,M,L,M,M,L,L,L,L,S,S,L,S,M,S,S,S,S,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Assam,Udalguri,M,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,S,M,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,L,M,M,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,M,M,L,M,M,S,S,S,S,M,M,L,S,S,S
+Bihar,Araria,M,L,M,M,L,M,M,M,M,L,M,M,M,M,S,S,M,M,M,S,L,L,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,M,S,S,M,S,S,S,M,M,S,S,S,S,S,S,S,S,S,M,M,M,L,M,M,S,S,S,S,S,S,M,S,S,S
+Bihar,Arwal,L,L,L,L,L,L,M,M,M,L,M,S,M,M,S,S,M,M,M,S,S,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,M,S,S,S,M,M,M,S,S,S,L,L,L,S,S,S,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Bihar,Aurangabad,L,L,L,L,L,L,M,L,M,L,S,S,M,M,S,S,M,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,M,S,M,S,S,S,M,M,L,S,S,M,S,S,L,S,S,M,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Bihar,Banka,M,L,M,L,L,L,M,M,M,M,S,S,M,S,S,S,S,M,M,S,S,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,S,S,M,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Bihar,Begusarai,M,L,M,L,L,L,M,M,M,L,M,M,M,M,S,S,M,S,M,S,L,S,L,S,M,M,S,S,M,S,M,M,S,M,S,M,S,S,S,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Bihar,Bhagalpur,M,L,M,L,L,L,M,L,M,L,S,S,M,S,S,S,M,S,M,S,S,S,L,S,M,M,S,S,M,S,M,M,S,M,M,M,S,S,S,M,M,L,S,S,L,M,S,L,S,S,M,S,S,S,S,S,S,M,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Bihar,Bhojpur,L,L,L,L,L,L,M,L,M,L,M,S,M,M,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,L,L,L,S,S,M,S,S,L,S,S,M,M,M,S,S,S,S,L,L,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Bihar,Buxar,L,L,L,L,L,L,M,L,M,L,S,S,L,M,S,S,M,S,M,S,L,S,L,S,M,M,S,S,M,S,M,M,S,S,S,M,S,S,S,L,L,L,S,S,L,S,S,L,S,S,M,M,M,S,S,S,S,L,L,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Bihar,Darbhanga,M,L,M,L,L,M,M,L,M,L,M,S,L,M,S,M,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,M,S,S,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Bihar,Gaya,M,L,M,L,L,L,M,L,M,L,S,S,M,S,S,S,M,M,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,L,S,S,L,S,S,M,S,S,S,S,S,M,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Bihar,Gopalganj,M,L,M,L,L,L,M,L,M,L,S,S,M,S,S,S,M,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,M,S,S,M,S,S,M,M,M,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Bihar,Jamui,M,L,M,L,L,L,M,M,M,M,L,S,M,S,S,S,M,M,M,S,S,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,S,S,M,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,M,M,M,S,M,S
+Bihar,Jehanabad,L,L,M,L,L,L,M,L,M,L,S,S,M,M,S,S,L,S,M,S,S,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,L,S,S,L,S,S,M,S,S,S,S,S,M,M,L,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Bihar,Kaimur (Bhabua),L,L,L,L,L,L,M,L,M,L,S,S,M,M,S,S,M,S,M,S,L,S,L,S,M,M,S,S,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,L,S,S,L,S,S,M,S,S,S,S,S,M,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Bihar,Katihar,M,L,M,M,L,M,M,L,M,L,M,S,M,S,S,S,M,S,M,S,L,S,L,S,M,M,S,S,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,M,S,S,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,M,M,L,M,M,S,S,S,S,S,S,M,M,M,S
+Bihar,Khagaria,M,L,M,M,L,M,M,L,M,L,L,L,L,L,S,M,L,M,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,M,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Bihar,Kishanganj,M,L,M,M,L,M,M,M,M,L,M,S,M,S,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,L,M,L,S,S,S,S,S,S,M,S,S,S
+Bihar,Lakhisarai,M,L,M,L,L,L,M,M,M,L,M,M,M,M,S,S,M,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,M,M,M,S,S,S,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,M,M,M,S,S,S,L,L,L,S,S,S,S,S,S,M,M,M,S,M,S
+Bihar,Madhepura,M,L,M,M,L,M,M,M,M,L,M,M,M,M,S,S,L,M,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,S,S,S,M,M,M,L,M,M,S,S,S,S,S,S,M,M,M,S
+Bihar,Madhubani,M,L,M,L,L,L,M,M,M,L,M,M,L,M,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,M,M,M,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Bihar,Munger,L,L,M,L,L,L,M,L,M,L,M,M,L,M,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,M,M,M,S,S,S,M,M,L,M,S,L,M,S,L,S,S,M,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Bihar,Muzaffarpur,M,L,M,L,L,L,M,L,M,L,M,S,M,M,S,S,L,S,M,S,L,S,L,S,M,M,S,S,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,L,S,S,L,S,S,M,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Bihar,Nalanda,M,L,M,L,L,L,M,L,M,L,M,M,M,M,S,M,L,M,M,S,L,S,L,S,M,M,S,S,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,L,S,S,L,S,S,M,S,S,S,S,S,M,M,L,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Bihar,Nawada,M,L,M,L,L,L,M,L,M,L,M,S,M,S,S,S,L,M,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,M,S,S,L,S,S,M,S,S,S,S,S,M,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,S,M,M,M,S
+Bihar,Pashchim Champaran,M,L,M,M,L,M,M,M,M,L,M,S,M,S,S,S,L,M,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Bihar,Patna,L,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,M,S,M,S,L,S,M,M,M,M,S,S,M,S,M,S,S,M,S,L,S,S,M,M,M,L,M,S,L,M,S,L,M,S,L,S,S,S,S,S,M,M,M,M,M,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Bihar,Purba Champaran,M,L,M,M,L,M,M,M,M,L,M,S,M,M,S,M,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,M,S,S,M,S,S,M,S,S,S,S,S,S,M,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Bihar,Purnia,M,L,M,M,L,M,M,L,M,L,S,S,M,M,S,S,M,M,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,M,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,M,M,L,M,M,S,S,S,S,S,S,M,M,M,S
+Bihar,Rohtas,L,L,L,L,L,L,M,L,M,L,S,S,M,M,S,S,M,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,L,L,L,S,S,M,S,S,L,S,S,M,M,M,S,S,S,S,L,L,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Bihar,Saharsa,M,L,M,M,L,M,M,L,M,L,M,M,L,M,S,S,M,M,M,S,L,M,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,M,S,S,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,M,M,L,M,M,S,S,S,S,M,M,M,M,M,S
+Bihar,Samastipur,M,L,M,L,L,L,M,L,M,L,M,M,L,M,S,M,L,S,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,M,S,S,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Bihar,Saran,M,L,M,L,L,L,M,L,M,L,M,S,M,M,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,M,S,S,M,S,S,M,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Bihar,Sheikhpura,M,L,M,L,L,L,M,M,M,L,M,M,M,M,S,S,L,M,M,S,L,S,L,S,M,M,S,S,M,S,M,M,S,S,S,M,S,S,S,M,S,M,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,M,L,M,S,S,S,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Bihar,Sheohar,M,M,M,M,L,M,M,M,M,L,L,M,L,M,S,M,L,S,M,S,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,M,M,M,S,S,S,S,S,M,S,S,S,S,S,M,S,S,S,S,S,S,S,S,S,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Bihar,Sitamarhi,M,L,M,M,L,M,M,M,M,L,M,M,M,M,S,M,M,S,M,S,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,M,S,L,S,S,M,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,S,S,M,S,S,S
+Bihar,Siwan,L,L,L,L,L,L,M,L,M,L,L,S,M,M,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,M,S,S,L,S,S,M,M,M,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Bihar,Supaul,M,L,M,L,L,L,M,M,M,L,M,M,M,M,S,S,M,M,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Bihar,Vaishali,M,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,L,S,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,M,M,M,S,S,M,S,S,M,S,S,M,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Chandigarh,Chandigarh,L,L,L,L,L,L,L,L,L,L,L,M,L,L,L,M,L,M,M,S,L,S,S,L,L,S,S,M,M,S,L,S,S,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,L,L,L,S,S,S,L,L,L,L,L,L,S,S,S,S,S,S,L,M,L,S,S,S
+Chhattisgarh,Bastar,M,L,M,M,L,M,M,L,M,L,M,S,M,M,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Chhattisgarh,Bijapur,M,L,M,M,L,M,S,M,S,L,S,S,S,S,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,S,S,S,M,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Chhattisgarh,Bilaspur,L,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,M,S
+Chhattisgarh,Dakshin Bastar Dantewada,M,L,M,M,L,M,S,L,S,L,M,S,S,S,S,S,M,M,M,M,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,M,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Chhattisgarh,Dhamtari,L,L,L,L,L,L,L,L,L,L,M,S,L,M,S,S,L,M,M,M,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Chhattisgarh,Durg,L,L,L,L,L,L,L,L,M,L,M,S,L,M,S,S,L,M,M,M,L,S,M,M,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Chhattisgarh,Janjgir - Champa,L,L,L,L,L,L,M,L,M,L,M,S,L,M,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,S,S,M,L,L,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,L,L,L,S,S,S,S,S,S,S,S,M,S,S,S
+Chhattisgarh,Jashpur,L,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,M,M,M,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Chhattisgarh,Kabeerdham,M,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,M,M,M,M,L,S,L,S,M,M,S,S,M,S,M,M,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,M,L,M,M,M,S
+Chhattisgarh,Korba,L,L,M,L,L,L,M,L,M,L,M,S,M,M,S,S,M,M,M,S,L,M,M,M,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,L,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,M,S
+Chhattisgarh,Koriya,L,L,M,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,M,M,S
+Chhattisgarh,Mahasamund,L,L,L,L,L,L,M,L,M,L,M,S,L,M,S,S,M,M,M,M,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,S,S,M,L,L,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Chhattisgarh,Narayanpur,M,L,M,M,L,M,M,L,M,L,S,S,S,S,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,M,M,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,S,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Chhattisgarh,Raigarh,L,L,L,L,L,L,M,L,M,L,M,S,L,M,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,S,M,S,S,S
+Chhattisgarh,Raipur,L,L,L,L,L,L,M,L,M,L,M,S,M,M,S,S,M,M,M,S,L,M,M,M,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Chhattisgarh,Rajnandgaon,L,L,L,L,L,L,L,L,M,L,M,S,L,M,S,S,L,M,M,M,L,M,L,S,M,M,S,M,M,S,M,S,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Chhattisgarh,Surguja,M,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,M,M,S
+Chhattisgarh,Uttar Bastar Kanker,L,L,L,L,L,L,M,L,M,L,M,S,M,M,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Dadra and Nagar Haveli,Dadra_&_Nagar_Haveli,L,L,M,L,L,L,M,L,M,M,M,M,M,M,S,S,M,M,M,S,S,S,M,M,L,S,S,M,M,S,L,S,S,S,S,M,S,S,M,M,S,L,L,L,L,M,S,L,M,S,L,S,S,S,S,S,M,S,S,S,M,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,M,S
+Daman and Diu,Daman,L,L,L,L,L,L,L,L,L,L,L,S,L,M,S,S,L,M,L,S,S,S,S,L,M,M,S,L,S,S,M,M,S,S,S,S,M,M,M,L,L,L,L,L,L,L,M,L,L,M,L,S,S,S,M,S,M,S,S,M,M,M,M,L,L,L,S,S,S,S,S,S,M,L,M,S,S,S
+Daman and Diu,Diu,L,L,L,L,L,L,L,L,M,L,L,M,L,L,M,S,L,S,M,S,S,S,M,M,L,S,S,L,S,S,L,S,S,L,L,L,L,L,L,L,L,L,L,L,L,M,M,L,L,M,L,S,S,S,S,S,M,S,S,S,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Delhi,Central,L,L,S,L,L,S,L,L,S,S,S,S,S,S,S,S,S,M,M,S,S,S,S,L,M,M,S,M,M,S,M,M,S,M,M,S,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,L,L,L,S,S,S,L,L,L,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Delhi,East,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,S,L,M,M,S,S,S,S,L,L,S,S,L,S,S,L,S,S,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,M,L,M,M,S,M,L,L,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Delhi,New Delhi,L,L,S,L,L,S,L,L,S,S,S,S,S,S,S,S,S,M,M,S,S,S,S,L,L,S,S,L,S,S,L,S,S,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,L,L,L,S,S,S,L,L,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Delhi,North,L,L,L,L,L,L,L,L,L,L,S,M,L,L,S,S,L,M,M,S,S,S,S,L,M,M,S,L,S,S,M,M,S,M,M,M,L,S,L,L,M,L,L,L,L,L,L,L,L,L,L,S,S,S,L,S,L,S,L,S,L,L,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Delhi,North East,L,L,L,L,L,L,L,L,L,M,M,M,L,L,S,S,L,S,M,S,S,S,S,L,M,M,S,M,M,S,M,M,S,M,M,M,L,M,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Delhi,North West,L,L,L,L,L,L,L,L,L,L,L,M,L,L,S,S,L,S,M,S,S,S,S,L,M,M,S,M,M,S,M,M,S,M,S,M,L,M,L,L,M,L,L,L,L,L,M,L,L,M,L,S,S,S,M,S,M,M,L,M,L,L,L,L,L,L,S,S,S,S,S,S,L,M,L,S,S,S
+Delhi,South,L,L,L,L,L,L,L,L,L,L,L,S,L,L,S,S,L,M,M,S,S,S,S,L,L,S,S,M,M,S,L,S,S,L,M,L,M,M,M,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,M,M,M,M,M,M,L,L,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Delhi,South West,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,S,L,M,M,S,S,S,S,L,L,S,S,M,M,S,L,S,S,L,S,L,L,M,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,M,S,L,S,L,S,L,L,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Delhi,West,L,L,L,L,L,L,L,L,L,L,L,M,L,M,S,L,L,M,M,S,S,S,S,L,L,S,S,M,M,S,L,S,S,L,S,L,L,S,L,L,S,L,L,L,L,L,L,L,L,L,L,S,S,S,L,S,L,S,L,S,L,L,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Goa,North Goa,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,S,L,M,M,S,L,S,M,M,L,S,S,L,S,S,L,S,S,S,S,M,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,M,S,M,S,S,S,L,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Goa,South Goa,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,S,L,M,M,S,L,S,M,M,L,S,S,L,S,S,L,S,S,M,S,M,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,M,S,M,S,S,S,L,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Gujarat,Ahmadabad,L,L,L,L,L,L,L,L,M,L,M,M,L,L,S,L,L,M,M,S,L,S,S,L,L,S,S,M,M,S,L,S,S,M,S,L,L,S,L,L,M,L,L,L,L,L,S,L,L,M,L,S,S,S,L,S,L,S,S,S,M,S,L,L,L,L,S,S,S,S,S,S,L,M,L,S,S,S
+Gujarat,Amreli,L,L,L,L,L,L,M,L,M,L,M,M,L,L,S,M,L,M,M,S,L,S,L,S,L,S,S,L,S,S,L,S,S,M,M,M,S,S,S,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Gujarat,Anand,L,L,L,L,L,L,L,L,L,L,L,M,L,L,S,M,L,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,M,S,M,M,S,L,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,M,S,S,S,M,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Gujarat,Banas Kantha,M,L,M,L,L,L,M,L,M,L,M,S,L,L,S,L,L,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,M,M,L,L,L,L,S,S,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,M,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Gujarat,Bharuch,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,S,L,M,M,S,L,S,M,M,L,S,S,M,M,S,L,S,S,S,S,M,M,S,M,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,L,S,S,S,M,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Gujarat,Bhavnagar,L,L,L,L,L,L,M,L,M,L,M,M,L,L,S,L,L,M,M,S,L,S,M,M,L,S,S,M,S,S,L,S,S,M,S,M,M,S,L,M,M,L,L,L,L,M,S,L,M,M,L,S,S,S,M,S,L,S,S,S,S,S,M,L,M,L,S,M,S,S,S,S,M,M,M,S,S,S
+Gujarat,Dohad,M,L,M,L,L,L,M,L,M,L,M,S,L,L,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,M,M,S
+Gujarat,Gandhinagar,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,M,L,M,M,S,L,S,M,M,L,S,S,M,M,S,L,S,S,M,M,L,M,M,L,L,L,L,L,L,L,M,M,L,M,M,L,S,S,S,M,S,L,S,S,S,M,S,L,L,M,L,S,M,S,S,S,S,M,M,L,S,S,S
+Gujarat,Jamnagar,L,L,L,L,L,L,M,L,M,L,M,M,L,L,S,M,L,M,M,S,L,S,M,M,L,S,S,L,S,S,L,S,S,M,M,M,M,S,M,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,S,S,S,M,M,S,M,L,M,L,S,M,S,S,S,S,M,M,L,S,S,S
+Gujarat,Junagadh,L,L,L,L,L,L,L,L,M,L,M,M,L,L,S,M,L,M,M,S,L,S,L,S,L,S,S,M,S,S,L,S,S,M,M,L,S,S,S,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,M,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,L,M,S,S,S
+Gujarat,Kachchh,L,L,M,L,L,L,M,L,M,L,M,M,L,L,S,S,L,M,M,S,L,S,M,M,L,S,S,L,S,S,L,S,S,M,S,M,M,S,M,L,M,L,L,L,L,M,M,L,M,M,L,S,S,S,M,S,L,S,S,S,S,S,M,L,M,L,S,M,S,S,S,S,M,M,L,S,S,S
+Gujarat,Kheda,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,M,M,L,L,L,L,M,S,L,M,S,L,S,S,S,S,S,M,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Gujarat,Mahesana,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,M,L,M,M,S,L,S,L,S,L,S,S,M,S,S,L,S,S,M,M,M,M,M,M,L,L,L,L,L,L,M,M,L,M,M,L,S,S,S,M,S,M,S,S,S,M,M,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Gujarat,Narmada,L,L,L,L,L,L,M,L,M,L,S,S,L,L,S,S,L,M,M,M,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,M,S,L,L,L,L,S,S,L,S,S,L,M,M,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,M,M,S
+Gujarat,Navsari,L,L,L,L,L,L,L,L,L,L,L,M,L,L,S,M,L,M,M,S,L,S,L,S,L,S,S,M,M,S,L,S,S,S,S,M,S,S,M,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,L,S,S,S,M,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Gujarat,Panch Mahals,L,L,L,L,L,L,M,L,M,L,M,S,L,L,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,L,S,S,M,S,S,L,L,L,L,S,S,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Gujarat,Patan,L,L,L,L,L,L,M,L,M,L,M,M,L,L,S,M,L,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,L,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,M,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Gujarat,Porbandar,L,L,L,L,L,L,L,L,M,L,M,M,L,L,S,M,L,M,M,S,L,S,M,M,L,S,S,L,S,S,L,S,S,M,S,M,M,S,L,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,S,S,S,M,M,S,M,L,M,L,S,M,S,S,S,S,L,L,L,S,S,S
+Gujarat,Rajkot,L,L,L,L,L,L,L,L,M,L,M,M,L,L,S,M,L,M,M,S,L,S,M,M,L,S,S,L,S,S,L,S,S,M,M,L,M,S,L,L,L,L,L,L,L,L,M,L,L,M,L,S,S,S,M,S,M,S,S,S,M,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Gujarat,Sabar Kantha,L,L,L,L,L,L,M,L,M,L,M,M,L,L,S,M,L,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,M,S,M,S,S,M,M,M,L,L,L,L,M,S,L,M,S,L,S,S,S,S,S,M,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,M,S
+Gujarat,Surat,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,S,L,M,M,S,L,S,S,L,L,S,S,L,S,S,L,S,S,M,S,L,M,S,L,L,M,L,L,L,L,L,M,L,L,M,L,S,S,S,L,S,L,S,S,S,M,M,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Gujarat,Surendranagar,L,L,L,L,L,L,M,L,M,L,M,M,L,L,S,M,L,M,M,S,L,S,L,S,M,S,S,M,M,S,L,S,S,M,S,M,M,S,L,M,M,L,L,L,L,M,S,L,M,S,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Gujarat,Tapi,L,L,M,L,L,L,M,L,M,L,M,M,L,L,S,S,L,M,M,M,L,M,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,L,S,S,L,L,L,L,S,S,L,S,S,L,M,M,S,S,S,M,S,S,S,S,S,L,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Gujarat,The Dangs,L,L,L,L,L,L,L,L,M,L,S,S,L,L,S,S,L,M,M,M,S,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,S,S,M,S,S,S,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Gujarat,Vadodara,L,L,L,L,L,L,L,L,M,L,M,M,L,L,S,S,L,M,M,S,L,S,M,M,M,S,S,M,M,S,L,S,S,M,S,L,M,S,L,M,M,L,L,L,L,M,S,L,M,S,L,S,S,S,M,S,L,S,S,S,M,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Gujarat,Valsad,L,L,L,L,L,L,L,L,M,L,L,M,L,L,S,S,L,M,M,S,L,S,M,M,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,M,S,M,L,L,L,M,S,L,M,S,L,S,S,S,S,S,M,S,S,S,M,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Haryana,Ambala,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,S,L,S,M,S,L,S,M,M,M,M,S,M,M,S,L,S,S,M,M,L,L,L,L,L,L,L,L,L,L,L,M,L,L,M,L,S,S,S,S,S,S,L,L,L,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Haryana,Bhiwani,L,L,L,L,L,L,M,L,M,L,L,M,L,L,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,M,M,L,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,M,L,L,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Haryana,Faridabad,L,L,L,L,L,L,L,L,M,L,M,S,L,L,S,S,L,S,M,S,L,S,S,L,M,M,S,M,M,S,M,M,S,M,S,M,M,M,M,L,M,L,L,L,L,L,M,L,L,M,L,S,S,S,M,S,M,M,L,M,L,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Haryana,Fatehabad,L,L,M,L,L,L,M,L,M,L,L,M,L,L,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,M,M,L,L,M,L,L,L,L,L,L,L,M,M,L,S,S,S,S,S,M,M,L,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Haryana,Gurgaon,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,S,L,M,M,S,L,S,S,L,M,S,S,M,M,S,L,S,S,M,S,M,M,M,M,L,M,L,L,L,L,L,M,L,L,L,L,S,S,S,M,S,L,M,L,S,L,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Haryana,Hisar,L,L,L,L,L,L,M,L,M,L,L,L,L,L,M,L,L,M,M,S,L,M,L,S,M,M,S,M,M,S,M,S,S,S,S,M,M,M,L,M,M,L,L,L,L,L,M,L,L,M,L,S,S,S,S,S,M,M,L,S,M,S,L,L,L,L,S,S,S,S,S,S,L,M,L,S,S,S
+Haryana,Jhajjar,L,L,L,L,L,L,L,L,L,L,L,M,L,L,S,S,L,M,M,S,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,S,M,M,L,M,M,L,L,L,L,L,M,L,L,M,L,S,S,S,S,S,M,L,L,M,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Haryana,Jind,L,L,L,L,L,L,M,L,M,L,L,M,L,L,S,M,L,M,M,S,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,M,M,M,M,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,M,L,L,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Haryana,Kaithal,L,L,L,L,L,L,M,L,M,L,M,M,L,L,S,S,L,M,M,S,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,M,M,S,L,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,M,L,L,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Haryana,Karnal,L,L,L,L,L,L,L,L,M,L,L,S,L,L,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,M,S,L,L,M,L,L,L,L,L,L,L,L,L,L,L,M,L,S,S,S,S,S,M,L,L,M,M,M,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Haryana,Kurukshetra,L,L,L,L,L,L,L,L,M,L,M,S,L,L,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,M,M,L,L,L,L,L,L,L,L,L,L,L,L,L,L,M,L,S,S,S,S,S,M,L,L,M,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Haryana,Mahendragarh,L,L,L,L,L,L,M,L,M,L,M,S,L,L,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,L,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Haryana,Mewat,M,L,M,L,L,L,M,M,M,L,M,S,L,L,S,S,L,S,M,S,L,S,L,S,M,M,S,S,M,S,M,M,S,S,S,S,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,M,S,S,S,S,M,M,L,S,S,M,L,M,L,S,M,S,S,S,S,M,M,M,S,S,S
+Haryana,Palwal,L,L,L,L,L,L,M,L,M,L,M,S,L,L,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,M,M,M,M,M,L,L,L,L,M,S,L,M,M,L,S,S,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Haryana,Panchkula,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,S,L,M,M,S,L,S,M,M,L,S,S,M,M,S,L,S,S,L,L,L,L,L,L,L,M,L,L,L,L,L,M,L,L,M,L,S,S,S,M,S,L,M,L,S,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Haryana,Panipat,L,L,L,L,L,L,L,L,M,L,L,M,L,L,S,M,L,M,M,S,L,S,M,M,M,M,S,M,M,S,M,M,S,M,S,M,M,M,L,L,M,L,L,L,L,L,L,L,L,M,L,S,S,S,S,S,M,L,L,M,M,M,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Haryana,Rewari,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,S,L,M,M,S,L,M,L,S,M,M,S,M,M,S,M,S,S,S,S,M,M,M,L,L,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,M,L,L,M,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Haryana,Rohtak,L,L,L,L,L,L,L,L,M,L,L,L,L,L,S,M,L,S,M,S,L,S,M,M,M,M,S,M,M,S,M,S,S,S,S,M,L,M,L,L,M,L,L,L,L,L,M,L,L,L,L,S,S,S,S,S,M,M,L,S,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Haryana,Sirsa,L,L,M,L,L,L,M,L,M,L,L,M,L,L,S,M,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,M,L,L,L,L,L,L,L,L,L,L,L,L,M,M,L,S,S,S,S,S,L,M,M,S,S,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Haryana,Sonipat,L,L,L,L,L,L,L,L,M,L,L,M,L,L,S,M,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,M,S,M,M,M,L,L,L,L,L,M,L,L,M,L,S,S,S,S,S,M,L,L,M,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Haryana,Yamunanagar,L,L,L,L,L,L,L,L,M,L,M,S,L,L,S,S,L,S,M,S,L,S,M,M,M,M,S,M,M,S,M,M,S,L,M,L,L,M,L,L,L,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,M,L,L,M,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Himachal Pradesh,Bilaspur,L,L,L,L,L,L,L,L,L,M,S,S,L,L,S,S,L,M,M,M,L,M,L,S,L,S,S,L,S,S,L,S,S,M,M,L,L,L,L,M,M,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,M,M,M,S,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Himachal Pradesh,Chamba,L,L,L,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,M,S,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,L,L,L,M,S,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,M,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Himachal Pradesh,Hamirpur,L,L,L,L,L,L,L,L,L,M,S,S,L,L,S,S,L,M,M,M,L,M,L,S,L,S,S,L,S,S,L,S,S,M,M,L,L,L,L,M,M,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,M,M,M,M,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Himachal Pradesh,Kangra,L,L,L,L,L,L,L,L,L,M,M,S,L,L,S,S,L,M,M,M,L,S,L,S,L,S,S,L,S,S,L,S,S,M,M,M,L,L,L,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,M,M,M,M,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Himachal Pradesh,Kinnaur,L,S,L,L,S,L,L,S,L,L,M,M,L,M,S,S,M,L,L,M,S,S,L,S,L,S,S,L,S,S,L,S,S,S,S,S,L,L,L,M,M,M,L,L,L,L,L,L,M,M,L,S,S,S,M,M,S,M,M,M,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Himachal Pradesh,Kullu,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,S,M,M,M,M,L,M,L,S,L,S,S,L,S,S,L,S,S,S,S,M,L,L,L,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,L,M,M,S,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Himachal Pradesh,Lahul & Spiti,L,S,L,L,S,L,L,S,L,L,M,S,L,L,S,S,M,M,M,M,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,L,L,L,S,S,S,L,L,L,L,L,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Himachal Pradesh,Mandi,L,L,L,L,L,L,L,L,L,M,S,S,L,M,S,S,M,M,M,M,L,S,L,S,L,S,S,L,S,S,L,S,S,M,M,L,L,L,L,M,M,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,L,M,M,S,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Himachal Pradesh,Shimla,L,L,L,L,L,L,L,L,L,M,S,S,L,M,S,S,M,M,M,M,L,S,L,S,L,S,S,L,S,S,L,S,S,S,S,M,L,L,L,M,M,L,L,L,L,L,M,L,L,L,L,S,S,S,M,M,L,S,S,S,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Himachal Pradesh,Sirmaur,L,L,L,L,L,L,L,L,L,L,S,S,L,L,S,S,M,M,M,M,L,M,L,S,L,S,S,M,S,S,L,S,S,M,M,L,L,M,L,M,M,L,L,L,L,M,M,L,L,M,L,S,S,S,S,S,L,S,S,S,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Himachal Pradesh,Solan,L,L,L,L,L,L,L,L,L,M,S,S,L,L,S,S,M,M,M,M,L,S,L,S,L,S,S,L,S,S,L,S,S,L,L,L,L,L,L,M,M,L,L,L,L,L,L,L,L,L,L,S,S,S,M,M,M,M,M,S,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Himachal Pradesh,Una,L,L,L,L,L,L,L,L,L,M,M,M,L,L,S,M,L,M,M,S,L,S,L,S,L,S,S,L,S,S,L,S,S,L,L,L,L,L,L,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,S,M,M,M,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Jammu and Kashmir,Anantnag,M,L,M,L,L,L,M,M,M,L,L,S,L,L,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,S,S,M,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jammu and Kashmir,Badgam,M,L,M,M,L,M,M,M,M,L,M,S,L,L,S,S,M,S,M,S,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,M,M,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jammu and Kashmir,Bandipore,M,M,M,L,L,M,M,M,M,L,M,S,L,L,S,S,M,M,M,S,L,L,L,S,M,M,S,M,M,S,M,S,S,S,S,S,S,S,S,S,S,M,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Jammu and Kashmir,Baramula,M,L,M,L,L,L,M,M,M,L,M,S,L,L,S,S,M,S,M,S,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,S,M,S,L,M,M,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,L,L,L,L,S,S,S,S,S,S,L,M,L,S,S,S
+Jammu and Kashmir,Doda,M,L,M,L,L,L,M,L,M,L,M,S,L,S,S,S,S,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,L,L,L,L,S,S,L,S,S,L,S,S,S,S,S,M,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Jammu and Kashmir,Ganderbal,M,M,M,L,L,L,M,M,M,L,M,S,L,L,S,S,L,M,M,S,S,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,M,M,L,M,M,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jammu and Kashmir,Jammu,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,S,L,S,M,S,L,S,M,M,M,S,S,M,M,S,L,S,S,L,M,L,M,S,L,L,M,L,L,L,L,M,S,L,M,S,L,S,M,S,S,S,S,M,M,M,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Jammu and Kashmir,Kargil,L,L,L,L,L,L,M,L,M,L,L,S,L,L,S,S,M,M,M,S,S,S,L,S,S,L,S,S,L,S,S,L,S,S,S,S,S,S,S,S,S,S,L,L,L,L,L,L,M,M,L,S,S,S,S,S,M,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Jammu and Kashmir,Kathua,L,L,L,L,L,L,M,L,M,L,L,S,L,S,S,S,M,S,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,M,M,L,M,M,M,M,M,L,L,L,L,S,S,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Jammu and Kashmir,Kishtwar,M,L,M,L,L,L,M,L,M,L,M,S,L,S,S,S,S,M,M,S,S,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,S,S,L,S,S,L,M,M,L,S,S,L,S,S,L,S,S,S,S,S,M,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,M,M,S
+Jammu and Kashmir,Kulgam,M,L,M,L,L,L,M,M,M,L,M,S,L,L,S,S,M,M,M,S,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,M,S,M,L,M,L,M,M,M,M,M,L,S,S,S,S,S,S,M,M,M,S,S,S,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Jammu and Kashmir,Kupwara,M,L,M,L,L,L,M,M,M,L,M,S,L,M,S,S,M,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,M,L,L,L,M,M,L,M,M,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Jammu and Kashmir,Leh(Ladakh),L,L,L,L,L,L,M,L,M,L,L,M,L,L,S,S,M,M,L,M,L,S,M,M,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,S,L,L,L,L,L,L,M,M,L,S,S,S,S,S,S,S,S,S,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Jammu and Kashmir,Pulwama,M,L,M,L,L,L,M,M,M,L,M,S,L,L,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,M,M,L,L,L,L,M,M,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jammu and Kashmir,Punch,L,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,L,M,M,S,S,S,L,S,M,M,S,M,M,S,L,S,S,S,S,L,S,S,M,S,S,L,L,L,L,S,S,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,M,M,S
+Jammu and Kashmir,Rajouri,L,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,L,S,S,L,S,S,L,L,L,L,S,S,L,S,S,L,S,S,S,S,S,S,S,S,L,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jammu and Kashmir,Ramban,M,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,S,S,M,S,S,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,L,S,S,L,M,M,L,S,S,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,M,M,S
+Jammu and Kashmir,Reasi,M,L,M,L,L,M,M,L,M,L,M,S,L,M,S,S,S,M,M,M,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,L,S,S,L,S,S,L,M,M,L,S,S,L,S,S,L,S,S,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,M,S
+Jammu and Kashmir,Samba,L,L,L,L,L,L,L,L,L,L,S,S,L,M,S,S,L,S,M,S,L,S,L,S,L,S,S,M,S,S,L,S,S,L,L,L,M,M,M,L,M,L,L,L,L,S,S,L,M,S,L,S,M,S,S,S,S,M,M,L,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Jammu and Kashmir,Shupiyan,M,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,M,S,M,S,L,M,L,S,M,S,S,M,S,S,M,M,S,S,S,S,S,S,L,M,M,L,L,L,L,M,M,L,L,L,L,S,S,S,S,S,M,M,M,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jammu and Kashmir,Srinagar,L,L,M,L,L,M,M,M,M,L,L,S,L,L,S,S,M,S,M,S,L,S,S,L,L,S,S,M,M,S,L,S,S,S,S,S,L,M,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,M,S,M,M,M,M,L,M,L,L,L,L,S,S,S,S,S,S,L,M,L,S,S,S
+Jammu and Kashmir,Udhampur,L,L,M,L,L,L,M,L,M,L,M,M,L,L,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,L,M,S,L,S,S,L,L,L,L,S,S,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Jharkhand,Bokaro,L,L,M,L,L,L,M,L,M,L,M,S,M,S,S,S,L,S,M,S,L,S,M,M,M,M,S,M,M,S,M,M,S,M,M,M,S,S,M,M,S,M,L,M,L,M,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jharkhand,Chatra,M,L,M,L,L,L,M,L,M,L,S,S,M,S,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jharkhand,Deoghar,M,L,M,L,L,L,M,L,M,L,S,S,M,S,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,S,S,M,M,M,L,S,S,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jharkhand,Dhanbad,L,L,L,L,L,L,M,L,M,L,S,S,M,S,S,S,L,S,M,S,L,S,M,M,M,M,S,M,M,S,M,M,S,M,M,M,S,S,M,S,S,M,L,L,L,M,S,M,S,S,M,S,S,S,S,S,S,M,S,M,S,S,S,L,L,L,S,S,S,S,S,S,L,M,L,S,S,S
+Jharkhand,Dumka,M,L,M,L,L,L,M,L,M,L,S,S,M,S,S,S,L,M,M,M,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jharkhand,Garhwa,M,L,M,L,L,L,M,L,M,L,M,S,M,M,S,S,L,M,M,M,S,S,L,S,M,M,S,S,M,S,M,M,S,S,S,M,S,S,S,S,S,M,S,S,M,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Jharkhand,Giridih,M,L,M,L,L,L,M,L,M,L,S,S,M,S,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,M,S,M,S,S,S,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jharkhand,Godda,M,L,M,L,L,L,M,L,M,M,S,S,M,S,S,S,L,M,M,S,S,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jharkhand,Gumla,M,L,M,L,L,L,M,L,M,L,M,S,M,S,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,M,S,S,L,S,S,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jharkhand,Hazaribagh,L,L,M,L,L,L,M,L,M,L,S,S,M,S,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,S,S,M,M,L,S,S,S,S,S,M,M,M,L,S,S,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,M,L,S,S,S
+Jharkhand,Jamtara,M,L,M,L,L,L,M,L,M,L,S,S,M,S,S,S,L,M,M,S,L,S,L,S,M,M,S,S,M,S,M,M,S,S,S,M,S,S,S,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Jharkhand,Khunti,M,L,M,L,L,L,M,L,M,L,M,S,M,S,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,S,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jharkhand,Kodarma,L,L,M,L,L,L,M,L,M,L,M,S,M,S,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,M,M,L,S,S,S,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jharkhand,Latehar,M,L,M,L,L,L,M,L,M,L,S,S,M,S,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,S,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Jharkhand,Lohardaga,L,L,M,L,L,L,M,L,M,L,M,S,M,S,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,S,S,M,S,S,L,S,S,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jharkhand,Pakur,M,M,M,M,L,M,M,M,M,L,S,S,S,S,S,S,L,M,M,M,S,S,L,S,M,M,S,S,M,S,M,M,S,S,S,M,S,S,S,S,S,S,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Jharkhand,Palamu,M,L,M,L,L,L,M,L,M,L,S,S,M,M,S,S,L,M,M,S,L,S,L,S,M,M,S,S,M,S,M,M,S,S,S,M,S,S,S,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jharkhand,Pashchimi Singhbhum,M,L,M,L,L,L,M,L,M,L,L,S,M,S,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jharkhand,Purbi Singhbhum,L,L,M,L,L,L,L,L,M,L,S,S,M,S,S,S,L,M,M,S,L,S,M,M,M,M,S,M,M,S,L,S,S,M,S,M,S,S,M,M,S,L,L,L,L,M,S,L,M,S,L,S,S,S,S,S,M,S,S,M,M,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jharkhand,Ramgarh,L,L,L,L,L,L,M,L,M,L,S,S,M,M,S,S,L,S,M,S,S,S,M,M,M,M,S,M,M,S,M,M,S,M,M,M,S,S,M,M,S,M,L,L,L,S,S,M,S,S,M,S,S,S,S,S,S,M,S,M,S,S,S,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jharkhand,Ranchi,L,L,L,L,L,L,L,L,M,L,M,S,M,S,S,S,L,M,M,S,L,S,M,M,M,M,S,M,M,S,M,S,S,S,S,M,S,S,S,M,S,L,M,M,L,M,S,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jharkhand,Sahibganj,M,L,M,M,L,M,M,M,M,M,S,S,M,S,S,S,L,M,M,M,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,S,S,M,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Jharkhand,Saraikela-Kharsawan,L,L,M,L,L,L,M,L,M,L,M,S,M,S,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Jharkhand,Simdega,L,L,M,L,L,L,M,L,M,L,M,S,M,M,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,S,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Karnataka,Bagalkot,L,L,M,L,L,L,M,L,M,L,L,M,L,L,S,M,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,M,M,S,M,S,S,M,L,L,L,S,S,M,M,M,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Karnataka,Bangalore,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,S,L,M,M,S,L,S,S,L,L,S,S,L,S,S,L,S,S,L,M,L,M,S,L,L,M,L,L,L,L,L,L,L,L,L,L,S,S,S,L,S,L,S,M,S,L,M,L,L,L,L,S,S,S,S,S,S,L,M,L,S,S,S
+Karnataka,Bangalore Rural,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,S,S,S,M,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,M,M,L,M,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Karnataka,Belgaum,L,L,L,L,L,L,M,L,M,L,L,M,L,L,S,M,L,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,M,S,L,M,S,M,L,L,L,S,S,L,M,M,L,S,S,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Karnataka,Bellary,L,L,M,L,L,L,M,L,M,L,L,L,L,L,S,S,L,M,M,M,L,S,M,M,M,M,S,M,M,S,L,S,S,S,S,M,M,S,L,M,S,M,L,L,L,S,S,M,M,M,L,S,S,S,S,S,M,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Karnataka,Bidar,L,L,L,L,L,L,M,L,M,L,L,M,L,L,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,L,M,M,L,S,S,S,S,S,S,M,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Karnataka,Bijapur,L,L,M,L,L,L,M,L,M,L,L,M,L,L,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,L,S,S,M,L,L,L,S,S,M,M,M,L,S,S,S,S,S,M,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Karnataka,Chamarajanagar,M,L,M,L,L,M,M,L,M,L,L,M,L,L,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,L,S,S,M,L,L,L,S,S,M,M,M,L,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Karnataka,Chikkaballapura,L,L,M,L,L,L,M,L,M,L,S,S,L,L,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,L,L,L,M,S,L,M,M,L,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Karnataka,Chikmagalur,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,M,S,S,M,M,S,M,L,L,L,M,M,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Karnataka,Chitradurga,L,L,L,L,L,L,M,L,M,L,M,S,L,L,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,M,S,S,L,S,S,M,L,L,L,S,S,L,M,M,L,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Karnataka,Dakshina Kannada,L,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,L,M,M,M,L,S,M,M,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,S,S,S,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Karnataka,Davanagere,L,L,L,L,L,L,L,L,M,L,M,M,L,L,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,M,M,S,L,S,S,M,L,L,L,M,S,L,L,M,L,S,S,S,S,S,M,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Karnataka,Dharwad,L,L,L,L,L,L,L,L,M,L,L,M,L,L,S,M,L,M,M,S,L,S,M,M,M,M,S,M,M,S,L,S,S,S,S,M,M,S,L,M,S,L,L,L,L,M,S,L,L,L,L,S,S,S,M,S,M,S,S,S,M,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Karnataka,Gadag,L,L,L,L,L,L,M,L,M,L,L,M,L,L,S,M,L,M,M,M,L,S,M,M,M,M,S,M,M,S,M,M,S,S,S,S,M,S,M,S,S,M,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Karnataka,Gulbarga,M,L,M,L,L,L,M,L,M,L,L,M,L,L,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,M,S,M,S,S,M,L,L,L,S,S,L,M,M,L,S,S,S,S,S,M,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Karnataka,Hassan,L,L,L,L,L,L,L,L,M,L,S,S,L,L,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,L,M,S,L,L,L,L,M,S,L,L,L,L,S,S,S,S,S,M,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Karnataka,Haveri,L,L,L,L,L,L,L,L,L,L,L,M,L,L,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,S,S,M,S,S,M,L,L,L,M,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,M,L,M,S,S,S
+Karnataka,Kodagu,L,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,L,M,M,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,M,M,M,M,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Karnataka,Kolar,L,L,L,L,L,L,L,L,M,L,S,S,L,L,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,L,L,L,M,S,L,M,M,L,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Karnataka,Koppal,L,L,M,L,L,L,M,L,M,L,L,M,L,L,S,S,L,M,M,M,L,M,L,S,M,M,S,M,M,S,L,S,S,S,S,M,M,S,L,S,S,M,L,L,L,S,S,M,M,M,L,S,S,S,S,S,S,M,S,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Karnataka,Mandya,L,L,L,L,L,L,M,L,M,L,M,S,L,L,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,M,M,S,L,M,S,L,L,L,L,M,S,L,L,L,L,S,S,S,S,S,M,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Karnataka,Mysore,L,L,M,L,L,L,L,L,M,L,M,M,L,L,S,S,L,M,M,S,L,S,M,M,M,M,S,M,M,S,L,S,S,S,S,M,M,M,L,M,M,L,L,L,L,M,S,L,L,L,L,S,S,S,M,S,L,M,M,S,M,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Karnataka,Raichur,M,L,M,L,L,M,M,L,M,L,L,S,L,L,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,M,M,S,L,S,S,M,L,L,L,S,S,M,M,M,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Karnataka,Ramanagara,L,L,M,L,L,L,M,L,M,L,M,S,L,L,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,M,S,L,S,S,L,L,L,L,M,S,L,L,L,L,S,S,S,S,S,M,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Karnataka,Shimoga,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,S,L,M,M,S,L,S,M,M,M,M,S,M,M,S,M,S,S,S,S,M,M,S,L,M,M,M,L,L,L,L,M,L,L,L,L,S,S,S,S,S,S,M,M,M,M,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Karnataka,Tumkur,L,L,L,L,L,L,L,L,M,L,S,S,L,L,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,L,L,M,L,S,S,S,S,S,S,M,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Karnataka,Udupi,L,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,L,M,M,S,L,S,L,S,M,S,S,M,M,S,L,S,S,S,S,M,S,S,S,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,S,S,S,M,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Karnataka,Uttara Kannada,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,M,M,L,L,L,L,M,M,L,L,L,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Karnataka,Yadgir,M,L,M,M,L,M,M,M,M,L,L,M,L,L,S,S,L,M,M,M,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,M,M,M,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,M,S
+Kerala,Alappuzha,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,M,M,S,L,S,M,M,M,S,S,M,S,S,L,S,S,M,M,M,S,S,S,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,S,S,S,M,M,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Kerala,Ernakulam,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,M,M,S,L,S,S,L,L,S,S,M,S,S,L,S,S,M,M,L,M,S,M,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,M,S,M,S,S,S,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Kerala,Idukki,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,M,L,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,M,M,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,M,S,S,S,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Kerala,Kannur,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,M,L,S,M,S,S,S,M,M,L,S,S,M,S,S,L,S,S,M,M,M,S,S,S,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,M,S,M,S,S,S,S,S,S,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Kerala,Kasaragod,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,M,L,M,M,S,L,S,M,M,L,S,S,M,S,S,L,S,S,M,M,M,S,S,S,L,M,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Kerala,Kollam,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,M,M,S,L,S,M,M,M,S,S,M,S,S,L,S,S,M,M,M,S,S,S,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,S,S,S,M,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Kerala,Kottayam,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,M,M,S,L,S,L,S,M,S,S,M,M,S,L,S,S,M,S,M,S,S,S,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,M,S,S,S,M,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Kerala,Kozhikode,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,S,L,S,M,S,L,S,S,L,L,S,S,M,S,S,L,S,S,M,M,M,S,S,S,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,M,S,M,S,S,S,S,S,S,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Kerala,Malappuram,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,M,L,S,M,S,S,S,M,M,L,S,S,L,S,S,L,S,S,M,M,M,S,S,S,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,S,S,S,S,S,S,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Kerala,Palakkad,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,M,L,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Kerala,Pathanamthitta,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,S,M,S,S,S,L,S,M,S,S,M,S,S,L,S,S,M,M,M,S,S,S,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,M,S,S,S,M,M,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Kerala,Thiruvananthapuram,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,M,M,S,L,S,M,M,M,S,S,M,M,S,L,S,S,M,M,M,S,S,M,L,L,L,L,L,L,L,L,L,M,M,L,S,S,S,S,S,S,S,S,S,M,S,M,L,L,L,S,S,S,S,S,S,L,M,L,S,S,S
+Kerala,Thrissur,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,M,M,S,L,S,S,L,M,S,S,M,M,S,L,S,S,M,M,M,S,S,S,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,S,S,S,M,M,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Kerala,Wayanad,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,M,L,M,M,S,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,M,M,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Lakshadweep,Lakshadweep,L,L,L,L,L,L,L,L,L,L,L,L,L,L,M,M,S,S,M,S,S,S,S,L,L,S,S,M,M,S,L,S,S,M,M,M,S,S,S,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,S,S,S,S,S,S,L,M,L,S,M,S,S,S,S,L,L,L,S,S,S
+Madhya Pradesh,Alirajpur,M,L,S,M,L,M,S,L,S,L,S,S,L,M,S,S,L,M,M,M,S,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,M,M,L,S,S,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Madhya Pradesh,Anuppur,L,L,M,L,L,L,M,L,M,L,S,S,L,M,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,M,M,S
+Madhya Pradesh,Ashoknagar,M,L,M,L,L,L,M,L,M,L,S,S,L,S,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,M,M,S,S,S,S,M,S,L,S,S,M,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Madhya Pradesh,Balaghat,L,L,L,L,L,L,L,L,L,L,M,S,L,M,S,S,M,M,M,M,L,M,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,S,S,S,M,L,L,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Madhya Pradesh,Barwani,M,L,M,M,L,M,M,L,M,L,M,S,L,M,S,S,M,M,M,M,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,L,S,S,M,L,L,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Madhya Pradesh,Betul,L,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,M,M,M,M,L,M,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,L,M,L,S,S,L,S,S,L,M,M,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,M,M,S
+Madhya Pradesh,Bhind,L,L,L,L,L,L,M,L,M,L,S,S,L,S,S,S,M,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,M,S,L,S,S,L,S,S,M,M,M,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,M,S,M,S,S,S
+Madhya Pradesh,Bhopal,L,L,L,L,L,L,L,L,M,L,S,S,L,S,S,S,M,M,M,S,L,M,S,L,M,S,S,M,M,S,L,S,S,M,S,M,M,S,M,M,S,M,L,L,L,L,S,L,L,S,L,S,M,S,M,S,M,S,S,S,M,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,M,S
+Madhya Pradesh,Burhanpur,M,L,M,L,L,M,M,L,M,L,L,S,L,M,S,S,L,M,M,S,L,S,M,M,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,M,S,M,L,L,L,M,S,L,M,S,L,M,M,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Madhya Pradesh,Chhatarpur,M,L,M,L,L,L,M,L,M,L,M,S,L,S,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,S,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Madhya Pradesh,Chhindwara,L,L,M,L,L,L,M,L,M,L,S,S,L,S,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,M,M,S
+Madhya Pradesh,Damoh,L,L,M,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Madhya Pradesh,Datia,L,L,L,L,L,L,M,L,M,L,S,S,L,S,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,M,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Madhya Pradesh,Dewas,L,L,M,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,M,L,M,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,L,L,L,M,S,L,M,S,L,S,S,S,S,S,S,M,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,M,S
+Madhya Pradesh,Dhar,M,L,M,L,L,M,M,L,M,L,S,S,L,M,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Madhya Pradesh,Dindori,M,L,M,L,L,L,M,L,M,L,S,S,M,S,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,M,L,S
+Madhya Pradesh,Guna,M,L,M,L,L,L,M,L,M,L,S,S,M,S,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,M,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,S,M,S,M,S
+Madhya Pradesh,Gwalior,L,L,M,L,L,L,L,L,M,L,L,S,L,M,S,S,M,M,M,S,L,S,M,M,M,M,S,M,M,S,L,S,S,S,S,M,M,S,M,M,S,L,L,M,L,M,S,L,M,S,L,S,M,S,M,S,M,M,M,M,M,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Madhya Pradesh,Harda,L,L,L,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,S,L,M,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,M,S,M,L,L,L,M,M,L,M,S,L,S,S,S,S,S,S,M,S,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,M,S
+Madhya Pradesh,Hoshangabad,L,L,L,L,L,L,M,L,M,L,S,S,L,S,S,S,M,M,M,S,L,M,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,M,S,L,L,L,L,M,M,L,M,S,L,S,M,S,S,S,S,M,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Madhya Pradesh,Indore,L,L,L,L,L,L,L,L,M,L,M,S,L,M,S,S,M,M,M,S,L,S,S,L,L,S,S,M,M,S,L,S,S,M,S,M,M,S,M,M,S,M,L,L,L,L,M,L,L,M,L,S,S,S,M,S,M,S,M,S,L,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Madhya Pradesh,Jabalpur,L,L,L,L,L,L,L,L,M,L,S,S,L,S,S,S,M,M,M,S,L,S,M,M,M,M,S,M,M,S,L,S,S,M,S,M,M,S,M,M,S,M,L,L,L,M,S,L,M,S,L,S,S,S,S,S,M,M,S,M,M,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,M,S
+Madhya Pradesh,Jhabua,M,L,M,M,L,M,M,L,S,L,S,S,L,M,S,S,L,M,M,M,L,S,L,S,M,M,S,S,M,S,L,S,S,S,S,M,S,S,L,S,S,M,M,M,L,S,S,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,M,M,S
+Madhya Pradesh,Katni,L,L,L,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,M,M,S
+Madhya Pradesh,Khandwa (East Nimar),M,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,M,S,S,L,S,S,M,L,L,L,S,S,L,S,S,L,M,M,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Madhya Pradesh,Khargone (West Nimar),M,L,M,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,L,S,S,M,L,L,L,S,S,L,S,S,L,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Madhya Pradesh,Mandla,L,L,M,L,L,L,M,L,M,L,S,S,L,S,S,S,M,M,M,M,L,M,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,M,M,S
+Madhya Pradesh,Mandsaur,L,L,L,L,L,L,M,L,M,L,M,S,L,M,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,L,S,S,L,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Madhya Pradesh,Morena,L,L,L,L,L,L,M,L,M,L,M,S,L,M,S,S,L,M,M,S,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,M,M,S,L,S,S,L,S,S,M,S,S,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,M,S,M,S,S,S
+Madhya Pradesh,Narsimhapur,L,L,L,L,L,L,L,L,M,L,S,S,L,S,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,S,S,M,L,M,L,M,S,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Madhya Pradesh,Neemuch,L,L,M,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,M,S,S,M,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Madhya Pradesh,Panna,M,L,M,L,L,L,M,L,M,L,S,S,L,S,S,S,M,M,M,S,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Madhya Pradesh,Raisen,L,L,L,L,L,L,M,L,M,L,S,S,L,S,S,S,M,M,M,S,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,S,S,M,L,M,L,S,S,L,S,S,M,S,M,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,S,M,M,M,S
+Madhya Pradesh,Rajgarh,M,L,M,L,L,L,M,L,M,L,S,S,L,S,S,S,S,M,M,M,L,S,L,S,M,M,S,S,M,S,M,M,S,S,S,M,S,S,M,S,S,M,L,M,L,S,S,M,S,S,M,S,S,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,M,S,M,M,M,S
+Madhya Pradesh,Ratlam,L,L,M,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,M,L,M,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,L,M,L,S,S,L,S,S,L,S,S,S,S,S,S,M,S,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Madhya Pradesh,Rewa,L,L,L,L,L,L,M,L,M,L,S,S,M,S,S,S,M,M,M,S,L,S,L,S,M,S,S,M,M,S,L,S,S,S,S,M,S,S,S,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Madhya Pradesh,Sagar,L,L,L,L,L,L,L,L,M,L,S,S,L,S,S,S,M,M,M,S,L,M,L,S,M,M,S,M,M,S,M,S,S,S,S,M,S,S,M,S,S,M,L,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,S,M,M,M,S
+Madhya Pradesh,Satna,L,L,L,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,S,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Madhya Pradesh,Sehore,L,L,L,L,L,L,M,L,M,L,M,S,L,M,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,L,S,S,L,S,S,S,S,S,S,S,S,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Madhya Pradesh,Seoni,L,L,L,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,M,L,M,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Madhya Pradesh,Shahdol,L,L,M,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,M,S
+Madhya Pradesh,Shajapur,L,L,M,L,L,L,M,L,M,L,S,S,L,S,S,S,M,M,M,M,L,M,L,S,M,M,S,M,M,S,M,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,L,S,S,M,S,M,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,M,S
+Madhya Pradesh,Sheopur,M,L,M,L,L,L,M,M,M,L,M,S,L,M,S,S,L,M,M,S,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Madhya Pradesh,Shivpuri,M,L,M,L,L,L,M,L,M,L,S,S,L,S,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,S,S,S,S,S,S,M,M,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Madhya Pradesh,Sidhi,M,L,M,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,S,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Madhya Pradesh,Singrauli,M,L,M,L,L,L,M,M,M,L,S,S,L,M,S,S,L,M,M,M,S,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,M,M,S
+Madhya Pradesh,Tikamgarh,M,L,M,L,L,L,M,M,M,L,M,S,M,M,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,M,S,S,S,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Madhya Pradesh,Ujjain,L,L,M,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,M,L,S,M,M,M,M,S,M,M,S,L,S,S,S,S,M,S,S,L,S,S,M,L,L,L,M,S,L,M,S,L,S,M,S,S,S,S,M,M,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Madhya Pradesh,Umaria,M,L,M,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Madhya Pradesh,Vidisha,L,L,L,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,S,L,M,L,S,M,M,S,M,M,S,L,S,S,S,S,S,S,S,M,S,S,M,M,M,L,S,S,L,S,S,M,M,M,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,M,S,M,M,M,S
+Maharashtra,Ahmadnagar,L,L,L,L,L,L,L,L,L,L,L,M,L,L,S,L,L,M,M,M,L,S,L,S,M,S,S,M,S,S,L,S,S,S,S,M,M,S,L,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,M,S,S,S,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Maharashtra,Akola,L,L,L,L,L,L,L,L,L,L,S,S,L,L,S,M,L,M,M,S,L,S,M,M,M,M,S,M,M,S,M,M,S,S,S,M,M,M,M,M,M,M,L,L,L,M,S,L,M,M,L,M,M,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,M,S
+Maharashtra,Amravati,L,L,L,L,L,L,L,L,L,L,S,S,L,L,S,S,L,M,M,S,L,S,M,M,M,M,S,M,M,S,M,S,S,S,S,M,M,M,L,M,M,L,L,L,L,M,M,L,M,M,L,M,M,S,S,S,S,L,M,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,M,S
+Maharashtra,Aurangabad,L,L,L,L,L,L,L,L,M,L,M,S,L,L,S,M,L,M,M,S,L,S,M,M,M,S,S,M,M,S,L,S,S,S,S,M,M,S,L,M,M,L,L,L,L,M,S,L,M,S,L,S,M,S,M,S,L,S,M,S,M,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Maharashtra,Bhandara,L,L,L,L,L,L,L,L,L,L,S,S,L,L,S,M,L,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,M,S,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,S,M,M,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Maharashtra,Bid,L,L,L,L,L,L,L,L,M,L,M,S,L,L,S,M,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,M,S,S,L,M,S,L,L,L,L,S,S,L,S,S,L,M,M,S,S,S,S,M,M,L,S,S,M,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Maharashtra,Buldana,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,M,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,L,M,M,M,L,L,L,M,S,M,M,M,L,M,M,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Maharashtra,Chandrapur,L,L,L,L,L,L,L,L,L,L,S,S,L,L,S,S,L,M,M,M,L,S,M,M,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,M,S,L,L,L,L,M,S,L,M,M,L,S,S,S,S,S,S,M,M,M,S,S,L,L,L,L,S,S,S,S,S,S,L,M,L,S,M,S
+Maharashtra,Dhule,L,L,L,L,L,L,M,L,M,L,M,M,L,L,S,M,L,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,M,M,L,M,M,L,L,L,L,S,S,M,M,M,L,S,S,S,S,S,S,M,M,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Maharashtra,Gadchiroli,L,L,L,L,L,L,M,L,M,L,M,S,M,M,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,L,M,M,L,S,S,M,S,S,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Maharashtra,Gondiya,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,M,L,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,L,L,L,M,M,L,M,S,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Maharashtra,Hingoli,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,L,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,M,S,M,L,M,L,S,S,M,M,M,L,M,M,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,M,L,M,S,S,S
+Maharashtra,Jalgaon,L,L,L,L,L,L,L,L,M,L,M,M,L,L,S,M,L,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,L,M,L,M,M,L,L,L,L,M,S,M,M,M,L,S,M,S,S,S,S,L,L,L,M,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,M,S
+Maharashtra,Jalna,L,L,L,L,L,L,M,L,M,L,L,S,L,L,S,L,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,M,S,M,L,L,L,M,S,L,M,S,L,M,M,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,L,M,S,S,S
+Maharashtra,Kolhapur,L,L,L,L,L,L,L,L,L,L,L,M,L,L,S,L,L,M,M,S,L,S,L,S,L,S,S,L,S,S,L,S,S,S,S,M,M,M,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,M,M,L,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Maharashtra,Latur,L,L,L,L,L,L,L,L,L,L,L,M,L,L,S,L,L,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,M,S,L,M,M,L,L,L,L,M,S,L,M,M,L,S,M,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Maharashtra,Mumbai,L,L,S,L,L,S,L,L,S,S,S,S,S,S,S,S,S,M,M,S,L,S,S,L,L,S,S,L,S,S,L,S,S,M,M,M,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,L,L,L,S,S,S,L,L,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Maharashtra,Mumbai Suburban,L,L,S,L,L,S,L,L,S,S,S,S,S,S,S,S,S,M,M,S,L,M,S,L,L,S,S,L,S,S,L,S,S,M,M,M,L,L,L,L,L,L,L,L,L,M,M,M,L,L,L,S,S,S,L,L,L,S,S,S,L,L,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Maharashtra,Nagpur,L,L,L,L,L,L,L,L,L,L,S,S,L,M,S,S,L,M,M,S,L,M,S,L,L,S,S,M,M,S,L,S,S,M,S,M,M,M,L,L,M,L,L,L,L,L,M,L,L,M,L,S,S,S,M,S,L,S,M,S,M,S,L,L,L,L,S,S,S,S,S,S,L,M,L,S,S,S
+Maharashtra,Nanded,L,L,L,L,L,L,M,L,M,L,M,M,L,L,S,M,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,M,S,M,L,L,L,S,S,L,M,S,L,M,M,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,M,S
+Maharashtra,Nandurbar,M,L,M,L,L,L,M,L,M,L,M,S,L,L,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,M,S,L,M,M,L,S,S,M,S,S,L,M,M,S,S,S,M,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,S,M,M,M,S
+Maharashtra,Nashik,L,L,L,L,L,L,L,L,L,L,L,M,L,L,S,L,L,M,M,M,L,S,M,M,M,S,S,M,M,S,L,S,S,S,S,M,M,S,L,M,M,L,L,M,L,M,S,L,M,M,L,S,S,S,S,S,M,S,S,S,M,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Maharashtra,Osmanabad,L,L,L,L,L,L,L,L,L,L,L,M,L,L,S,L,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,M,M,S,M,M,M,M,L,M,L,S,S,M,M,M,L,M,M,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Maharashtra,Parbhani,L,L,L,L,L,L,M,L,M,L,M,S,L,L,S,L,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,M,S,L,L,L,L,S,S,L,M,S,M,M,M,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Maharashtra,Pune,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,M,L,M,M,S,L,S,M,M,L,S,S,L,S,S,L,S,S,M,S,M,L,M,L,L,M,L,L,L,L,L,M,L,L,M,L,S,S,S,M,S,L,S,S,S,L,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Maharashtra,Raigarh,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,S,L,M,M,S,L,S,M,M,L,S,S,L,S,S,L,S,S,S,S,M,M,M,L,M,M,L,L,L,L,M,M,L,L,L,L,S,S,S,M,S,M,S,S,S,M,M,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Maharashtra,Ratnagiri,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,M,L,M,M,M,L,S,L,S,L,S,S,L,S,S,L,S,S,S,S,M,M,M,M,M,M,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,M,S,S,S,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Maharashtra,Sangli,L,L,L,L,L,L,L,L,L,L,L,M,L,L,S,L,L,M,M,S,L,S,L,S,L,S,S,L,S,S,L,S,S,S,S,M,M,M,L,M,M,L,L,L,L,M,M,L,L,L,L,S,S,S,S,S,S,M,M,M,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Maharashtra,Satara,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,M,L,M,M,M,L,S,L,S,L,S,S,L,S,S,L,S,S,S,S,M,M,M,L,M,M,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,M,M,M,M,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Maharashtra,Sindhudurg,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,M,L,M,M,S,S,S,L,S,L,S,S,L,S,S,L,S,S,S,S,S,S,S,S,M,M,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,S,S,S,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Maharashtra,Solapur,L,L,L,L,L,L,L,L,M,L,L,M,L,L,S,L,L,M,M,S,L,S,L,S,M,S,S,M,S,S,L,S,S,S,S,M,M,S,L,M,M,L,L,M,L,M,S,M,M,M,L,S,M,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Maharashtra,Thane,L,L,L,L,L,L,L,L,M,L,M,S,L,L,S,M,L,M,M,S,L,S,S,L,L,S,S,M,M,S,L,S,S,M,S,M,L,S,L,L,M,L,L,L,L,L,M,L,L,M,L,S,S,S,M,S,L,S,S,S,M,S,L,L,L,L,S,S,S,S,S,S,L,M,L,S,M,S
+Maharashtra,Wardha,L,L,L,L,L,L,L,L,L,L,S,S,L,L,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,M,M,M,M,M,L,L,L,L,M,M,L,M,M,L,S,M,S,S,S,S,M,M,L,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Maharashtra,Washim,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,M,L,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,M,S,M,L,L,L,M,S,L,M,M,L,M,M,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Maharashtra,Yavatmal,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,L,M,S,L,L,M,L,S,S,L,M,S,L,M,M,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Manipur,Bishnupur,L,L,L,L,L,L,L,L,M,L,L,M,L,L,S,S,L,M,M,M,S,S,M,M,M,S,S,M,M,S,M,S,S,S,S,S,S,S,M,S,S,S,L,L,L,L,L,L,S,S,S,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,S,S,S,S,S,S
+Manipur,Chandel,L,L,L,L,L,L,M,M,M,M,S,S,M,S,S,S,S,M,M,M,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,M,M,M,L,L,L,L,S,S,M,S,S,S,S,S,S,M,S,M,S,S,S,L,L,L,S,S,S,S,S,S,S,S,S,S,S,S
+Manipur,Churachandpur,L,L,L,L,L,L,L,L,L,M,S,S,M,S,S,S,S,M,M,M,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,M,M,M,L,L,L,L,S,S,M,S,S,S,S,S,S,M,M,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Manipur,Imphal East,L,L,L,L,L,L,L,L,L,L,L,S,L,S,S,S,L,M,M,M,S,S,M,M,M,M,S,M,M,S,M,S,S,S,S,S,S,S,M,S,S,M,L,L,L,L,L,L,M,S,M,S,S,S,S,S,S,M,M,L,M,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Manipur,Imphal West,L,L,L,L,L,L,L,L,L,L,L,S,L,L,S,S,L,M,M,S,S,S,M,M,M,S,S,M,S,S,M,S,S,S,S,S,M,S,L,S,S,M,L,L,L,L,L,L,M,S,M,S,S,S,S,S,S,M,M,L,M,M,L,L,L,L,S,S,S,S,S,S,M,S,M,S,S,S
+Manipur,Senapati,M,L,M,L,L,L,M,L,M,L,M,S,L,S,S,S,S,M,M,M,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,S,L,L,L,L,L,L,S,S,M,S,S,M,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Manipur,Tamenglong,L,L,L,L,L,L,M,L,M,L,M,S,M,S,S,S,S,M,M,M,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,S,M,M,L,L,M,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Manipur,Thoubal,L,L,L,L,L,L,M,L,M,L,L,M,L,M,S,S,L,M,M,M,S,S,M,M,M,S,S,M,M,S,L,S,S,S,S,S,S,S,S,S,S,S,M,M,L,L,L,L,S,S,S,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,S,S,S,S,S,S
+Manipur,Ukhrul,L,L,L,L,L,L,L,L,L,L,M,S,L,M,S,S,M,M,M,M,S,S,L,S,S,L,S,S,L,S,M,M,S,S,S,S,S,S,M,S,S,M,M,M,M,L,L,L,M,M,L,M,M,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Meghalaya,East Garo Hills,L,L,L,L,L,L,L,L,L,L,M,S,M,S,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,M,M,L,L,L,L,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,M,M,M,M,M,M,S,S,S,S,S,M,M,M,S
+Meghalaya,East Khasi Hills,L,L,L,L,L,L,L,L,L,L,S,S,L,S,S,S,M,M,M,S,L,S,M,M,M,M,S,M,M,S,L,S,S,S,S,M,M,M,L,M,S,M,L,L,L,L,M,L,M,M,L,S,S,S,S,S,S,M,S,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,M,S
+Meghalaya,Jaintia Hills,M,L,M,M,L,M,M,L,M,L,S,S,L,S,S,S,M,M,M,S,L,L,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,M,M,M,L,M,M,L,M,M,L,S,S,S,S,S,S,M,S,L,S,S,L,L,L,L,S,S,S,S,S,S,M,S,L,M,M,S
+Meghalaya,Ribhoi,L,L,L,L,L,L,L,L,L,L,S,S,L,S,S,S,M,M,M,M,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,S,L,M,L,M,M,L,S,S,S,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,M,S,M,S,S,S
+Meghalaya,South Garo Hills,L,L,L,L,L,L,L,L,M,L,S,S,S,S,S,S,S,M,M,S,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,S,M,M,L,M,M,L,S,S,S,S,S,S,S,S,S,S,S,M,S,S,S,M,M,M,M,M,M,S,S,S,S,S,M,M,M,S
+Meghalaya,West Garo Hills,L,L,M,L,L,L,M,L,M,L,S,S,L,S,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,L,S,S,M,M,M,L,M,M,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,M,M,L,M,M,S,S,S,S,S,S,L,M,M,S
+Meghalaya,West Khasi Hills,L,L,L,L,L,L,L,L,L,L,S,S,M,S,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,S,M,M,L,M,M,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,S,S,M,M,M,M
+Mizoram,Aizawl,L,L,L,L,L,L,L,L,L,L,L,M,L,S,S,S,M,M,M,M,L,S,S,L,L,S,S,M,M,S,L,S,S,S,S,M,M,S,L,M,S,M,L,L,L,L,L,L,L,M,L,S,S,S,S,S,S,M,M,M,L,M,L,L,L,L,S,S,S,S,S,S,L,M,L,S,S,S
+Mizoram,Champhai,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,M,M,M,M,S,S,M,M,M,M,S,M,M,S,M,M,S,S,S,S,M,M,M,S,S,S,L,L,L,L,L,L,L,M,L,S,S,S,S,S,S,M,M,M,M,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Mizoram,Kolasib,L,L,L,L,L,L,L,L,L,L,L,M,L,S,S,S,M,M,M,M,S,S,M,M,M,M,S,M,M,S,M,M,S,S,S,S,M,M,L,S,S,M,L,L,L,L,L,L,M,M,M,S,S,S,S,S,S,M,M,M,M,S,L,L,L,L,S,S,S,S,S,S,M,S,M,S,S,S
+Mizoram,Lawngtlai,M,L,M,L,L,L,M,L,M,L,M,S,M,S,S,S,S,M,M,S,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,S,M,S,L,L,M,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,S,S,L,M,M,S
+Mizoram,Lunglei,L,L,L,L,L,L,L,L,L,L,M,S,L,S,S,S,S,M,M,M,S,S,M,M,M,M,S,M,M,S,L,S,S,S,S,S,S,S,L,S,S,M,L,L,L,L,L,L,M,M,L,S,S,S,S,S,S,M,S,M,M,S,L,L,L,L,S,S,S,S,S,S,M,S,L,S,M,S
+Mizoram,Mamit,L,L,L,L,L,L,L,L,L,L,M,M,L,S,S,S,M,M,M,M,S,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,S,S,M,S,S,M,L,M,L,L,L,L,M,S,M,S,S,S,S,S,S,M,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,S,M,S,M,S
+Mizoram,Saiha,L,L,L,L,L,L,L,L,L,L,M,S,M,S,S,S,S,M,M,S,S,S,M,M,M,S,S,M,S,S,L,S,S,S,S,S,S,S,S,S,S,M,L,M,L,L,L,L,M,M,L,S,S,S,S,S,S,S,S,M,M,S,L,L,L,L,S,S,S,S,S,S,M,S,L,S,M,S
+Mizoram,Serchhip,L,L,L,L,L,L,L,L,L,L,M,M,L,S,S,S,S,M,M,M,S,S,M,M,M,M,S,M,M,S,M,M,S,S,S,S,M,S,L,S,S,M,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,M,L,M,M,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Nagaland,Dimapur,L,L,L,L,L,L,L,L,L,L,M,S,L,S,S,S,S,M,M,S,L,S,M,M,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,L,M,L,L,L,L,L,L,L,L,M,L,S,S,S,S,S,S,M,S,M,M,M,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Nagaland,Kiphire,L,L,M,L,L,L,M,L,M,L,S,S,L,S,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,S,S,S,S,S,S,L,L,L,M,M,L,M,M,L,M,M,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Nagaland,Kohima,L,L,L,L,L,L,L,L,L,L,S,S,L,M,S,S,M,M,M,M,L,S,L,S,M,S,S,M,M,S,M,S,S,S,S,S,S,S,S,S,S,M,L,L,L,L,M,L,M,M,L,S,M,S,S,S,S,L,M,L,M,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Nagaland,Longleng,L,L,L,L,L,L,L,L,M,L,L,S,L,S,S,S,S,M,M,M,L,M,L,S,S,M,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,M,M,L,L,L,L,S,S,M,M,M,M,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Nagaland,Mokokchung,L,L,L,L,L,L,L,L,L,L,M,S,L,M,S,S,M,M,M,M,L,S,M,M,M,M,S,M,M,S,M,S,S,S,S,S,S,S,S,S,S,S,L,L,L,L,L,L,L,M,L,S,M,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,S,M,S,S,S
+Nagaland,Mon,M,L,M,M,L,M,M,L,M,L,L,S,L,S,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,M,M,S,L,L,M,L,S,S,M,M,M,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Nagaland,Peren,L,L,L,L,L,L,L,L,L,L,S,S,L,S,S,S,S,M,M,M,L,S,M,M,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,M,L,L,L,L,L,L,S,S,M,M,M,S,S,S,S,S,M,S,S,S,S,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Nagaland,Phek,L,L,L,L,L,L,L,L,L,L,M,S,L,S,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,M,L,L,L,L,L,L,M,M,L,S,M,S,S,S,S,M,M,L,S,S,S,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Nagaland,Tuensang,L,L,L,L,L,L,L,L,M,L,M,S,L,S,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,M,M,M,L,M,M,L,M,M,L,S,S,S,S,S,S,M,S,L,S,S,S,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Nagaland,Wokha,L,L,L,L,L,L,L,L,L,L,M,S,L,S,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,S,S,S,S,S,S,L,L,L,M,M,L,M,M,L,M,M,S,S,S,S,S,S,L,S,S,M,L,L,L,S,S,S,S,S,S,M,S,L,S,M,S
+Nagaland,Zunheboto,L,L,L,L,L,L,L,L,L,L,M,S,L,S,S,S,S,M,M,M,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,S,S,M,L,L,L,L,L,L,M,M,L,M,M,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Odisha,Anugul,L,L,L,L,L,L,L,L,M,L,S,S,L,S,S,S,M,M,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Odisha,Balangir,M,L,M,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,S,L,M,L,S,S,M,S,S,L,S,M,M,S,S,S,M,S,S,M,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,S,S,M,S,S,S
+Odisha,Baleshwar,L,L,L,L,L,L,L,L,L,L,S,S,L,S,S,S,M,M,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,M,M,M,M,M,L,S,S,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Odisha,Bargarh,L,L,L,L,L,L,M,L,M,L,S,S,L,S,S,S,M,M,M,M,L,S,L,S,S,M,S,S,L,S,M,M,S,S,S,M,S,S,S,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Odisha,Baudh,L,L,L,L,L,L,M,L,M,L,S,S,L,S,S,S,M,M,M,M,L,S,L,S,S,L,S,S,L,S,M,M,S,S,S,M,S,S,M,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Odisha,Bhadrak,L,L,L,L,L,L,L,L,L,L,S,M,L,M,S,S,L,S,M,S,L,M,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,M,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,S,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Odisha,Cuttack,L,L,L,L,L,L,L,L,L,L,S,S,L,M,S,S,L,M,M,S,L,L,L,S,M,M,S,M,M,S,M,M,S,M,M,M,S,S,M,M,S,L,M,M,L,M,S,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Odisha,Debagarh,L,L,L,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,M,S,S,L,S,S,L,S,S,L,S,S,M,S,S,S,S,S,S,M,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Odisha,Dhenkanal,L,L,L,L,L,L,L,L,L,L,S,S,L,M,S,S,M,M,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Odisha,Gajapati,M,L,M,M,L,M,M,L,M,L,S,S,L,S,S,S,M,M,M,M,L,S,L,S,S,M,S,S,L,S,M,M,S,S,S,M,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Odisha,Ganjam,L,L,L,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,S,L,L,L,S,M,M,S,S,M,S,M,M,S,M,M,M,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,M,S
+Odisha,Jagatsinghapur,L,L,L,L,L,L,L,L,L,L,S,S,L,M,S,S,L,M,M,S,L,L,L,S,M,M,S,M,M,S,M,M,S,M,M,M,S,S,M,M,M,M,M,M,M,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Odisha,Jajapur,L,L,L,L,L,L,L,L,L,L,S,S,L,S,S,S,L,S,M,S,L,M,L,S,S,M,S,S,M,S,M,M,S,M,M,M,S,S,S,M,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,L,M,L,S,M,S,S,S,S,M,M,M,S,S,S
+Odisha,Jharsuguda,L,L,L,L,L,L,L,L,M,L,S,S,L,M,S,S,L,M,M,S,L,M,M,M,S,M,S,S,L,S,M,M,S,S,S,M,S,S,S,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Odisha,Kalahandi,M,L,M,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,M,L,L,L,S,S,L,S,S,L,S,M,M,S,S,S,S,S,S,S,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Odisha,Kandhamal,M,L,M,L,L,L,M,L,M,L,S,S,M,S,S,S,S,M,M,M,L,S,L,S,S,L,S,S,L,S,M,M,S,S,S,S,S,S,S,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,S,L,L,L,S,S,S,S,S,S,M,M,L,M,M,S
+Odisha,Kendrapara,L,L,L,L,L,L,L,L,L,L,S,S,L,M,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,S,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Odisha,Kendujhar,L,L,M,L,L,L,M,L,M,L,S,M,L,M,S,S,L,M,M,S,L,M,L,S,S,L,S,S,L,S,M,M,S,S,S,S,S,S,M,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Odisha,Khordha,L,L,L,L,L,L,L,L,L,L,S,S,L,S,S,S,M,M,M,S,L,L,M,M,M,M,S,S,M,S,M,M,S,M,S,M,S,S,M,M,S,L,L,M,L,M,S,L,M,S,M,S,S,S,S,S,M,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Odisha,Koraput,M,L,M,M,L,M,M,L,S,L,S,S,L,S,S,S,M,M,M,M,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,M,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,S,M,M,M,S
+Odisha,Malkangiri,M,L,M,M,L,M,M,M,M,L,M,S,M,S,S,S,S,M,M,M,L,S,L,S,S,M,S,S,L,S,M,M,S,S,S,S,S,S,S,S,S,S,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+Odisha,Mayurbhanj,M,L,M,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,M,L,S,L,S,S,L,S,S,L,S,M,M,S,S,S,M,S,S,S,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Odisha,Nabarangapur,M,L,M,M,L,M,M,L,S,L,M,S,L,M,S,S,M,M,M,M,L,S,L,S,S,L,S,S,L,S,M,M,S,S,S,S,S,S,S,S,S,M,S,S,M,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,S,S,M,S,S,S
+Odisha,Nayagarh,L,L,L,L,L,L,L,L,L,L,S,S,L,M,S,S,M,M,M,S,S,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,S,L,L,L,S,S,S,S,S,S,S,S,M,S,S,S
+Odisha,Nuapada,M,L,M,L,L,L,M,L,M,L,S,S,L,M,S,S,L,M,M,M,L,S,L,S,S,L,S,S,L,S,M,M,S,S,S,S,S,S,S,S,S,S,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,S,S,M,S,S,S
+Odisha,Puri,L,L,L,L,L,L,L,L,L,L,S,S,L,M,S,S,L,M,M,S,L,L,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,M,S,S,L,M,M,L,S,S,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Odisha,Rayagada,M,L,M,M,L,M,M,L,M,L,S,S,M,S,S,S,M,M,M,M,L,S,L,S,S,M,S,S,L,S,M,M,S,S,S,M,S,S,M,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+Odisha,Sambalpur,L,L,L,L,L,L,L,L,M,L,S,S,L,M,S,S,L,M,M,M,L,M,L,S,S,M,S,S,L,S,M,M,S,S,S,M,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Odisha,Subarnapur,L,L,L,L,L,L,M,L,M,L,S,S,L,S,S,S,M,M,M,M,L,S,L,S,S,L,S,S,L,S,S,M,S,S,S,S,S,S,M,S,S,S,S,S,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,L,L,L,S,S,S,S,S,S,M,S,M,S,S,S
+Odisha,Sundargarh,L,L,M,L,L,L,M,L,M,L,S,S,L,M,S,S,M,M,M,S,L,M,M,M,S,M,S,S,L,S,M,M,S,S,S,M,S,S,M,S,S,M,M,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Puducherry,Karaikal,L,L,L,L,L,L,L,L,L,L,L,M,L,L,S,S,L,M,M,S,L,S,M,M,L,S,S,M,M,S,L,S,S,M,M,M,L,L,L,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,S,M,S,M,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Puducherry,Mahe,L,L,S,L,L,S,L,L,S,S,S,S,S,S,S,S,S,S,M,S,L,S,S,L,L,S,S,L,S,S,L,S,S,L,L,L,S,S,S,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,M,M,M,S,S,S,M,M,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Puducherry,Puducherry,L,L,L,L,L,L,L,L,L,L,L,M,L,L,M,M,L,M,M,S,L,S,S,L,L,S,S,M,S,S,L,S,S,M,M,L,L,L,L,L,M,L,L,L,L,L,M,L,L,M,L,S,S,S,S,S,M,M,S,M,L,M,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Puducherry,Yanam,L,L,S,L,L,S,L,L,S,S,S,S,S,S,S,S,S,S,M,S,L,S,S,L,L,S,S,L,S,S,L,S,S,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Punjab,Amritsar,L,L,L,L,L,L,L,L,M,L,L,S,L,L,S,S,L,M,M,S,L,S,M,M,M,M,S,M,M,S,M,M,S,M,M,L,M,S,L,L,L,L,L,L,L,L,M,L,L,M,L,S,M,S,M,S,L,M,L,S,M,M,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Punjab,Barnala,L,L,M,L,L,L,M,L,M,L,L,M,L,L,S,M,M,M,M,S,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,M,S,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,L,L,M,M,M,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Punjab,Bathinda,L,L,M,L,L,L,M,L,M,L,L,M,L,L,S,M,L,M,M,S,L,S,M,M,M,M,S,M,M,S,M,S,S,S,S,M,M,S,M,L,L,L,L,L,L,L,L,L,L,M,L,S,S,S,S,S,M,M,M,M,M,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Punjab,Faridkot,L,L,M,L,L,L,M,L,M,L,L,M,L,L,S,M,L,M,M,S,L,M,M,M,M,M,S,M,M,S,M,M,S,M,S,M,S,S,M,L,L,L,L,L,L,L,L,L,L,M,L,S,S,S,S,S,S,M,M,M,M,M,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Punjab,Fatehgarh Sahib,L,L,L,L,L,L,L,L,L,L,S,S,L,L,S,S,L,M,M,S,S,S,L,S,M,M,S,M,M,S,M,M,S,M,M,L,S,S,M,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,M,M,L,M,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Punjab,Firozpur,L,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,L,L,L,L,L,L,L,M,L,M,M,L,S,S,S,S,S,M,M,M,M,M,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Punjab,Gurdaspur,L,L,L,L,L,L,L,L,L,L,M,S,L,M,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,L,M,L,S,S,M,L,L,L,L,L,L,M,M,L,M,M,L,S,M,S,S,S,M,L,L,M,M,M,L,L,L,L,S,S,S,S,S,S,L,M,L,S,S,S
+Punjab,Hoshiarpur,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,M,M,L,M,M,L,L,L,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,M,L,L,M,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Punjab,Kapurthala,L,L,L,L,L,L,L,L,L,L,M,S,L,M,S,S,L,M,M,S,L,S,M,M,M,M,S,M,M,S,M,S,S,M,M,L,M,S,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,M,M,L,M,L,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Punjab,Ludhiana,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,M,L,M,M,S,L,S,M,M,M,M,S,M,M,S,M,M,S,M,M,L,M,S,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,M,S,L,M,L,S,L,M,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Punjab,Mansa,M,L,M,L,L,M,M,L,M,L,L,M,L,L,S,M,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,M,M,M,L,L,L,L,L,L,L,M,L,M,M,L,S,S,S,S,S,S,M,L,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Punjab,Moga,L,L,L,L,L,L,M,L,M,L,L,M,L,L,S,M,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,L,L,L,L,L,L,L,L,L,L,M,L,S,S,S,S,S,M,M,L,M,M,M,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Punjab,Muktsar,M,L,M,L,L,L,M,L,M,L,L,M,L,L,S,M,L,M,M,S,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,M,M,M,M,L,M,L,L,L,L,L,L,L,M,M,L,S,S,S,S,S,M,M,M,M,M,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Punjab,Patiala,L,L,L,L,L,L,L,L,M,L,M,S,L,M,S,S,L,M,M,S,L,S,M,M,M,M,S,M,M,S,M,S,S,M,M,L,M,S,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,M,S,M,M,L,S,M,M,L,L,L,L,S,S,S,S,S,S,L,M,L,S,S,S
+Punjab,Rupnagar,L,L,L,L,L,L,L,L,L,L,M,S,L,M,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,L,L,L,M,M,L,L,L,L,L,L,L,M,M,L,L,M,L,S,S,S,S,S,M,M,L,M,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Punjab,Sahibzada Ajit Singh Nagar,L,L,L,L,L,L,L,L,L,L,M,S,L,M,S,S,L,M,M,S,L,S,M,M,M,S,S,M,M,S,L,S,S,L,M,L,L,M,L,L,L,L,L,L,L,L,M,L,L,L,L,S,S,S,M,S,M,M,L,S,L,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Punjab,Sangrur,L,L,M,L,L,L,M,L,M,L,M,S,L,L,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,M,S,M,M,S,M,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,L,L,M,M,M,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Punjab,Shahid Bhagat Singh Nagar,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,S,L,M,M,S,S,S,L,S,M,M,S,M,M,S,M,M,S,M,S,M,M,M,M,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,S,S,S,L,L,M,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Punjab,Tarn Taran,L,L,M,L,L,L,M,L,M,L,M,M,L,M,S,S,L,M,M,S,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,L,L,L,L,L,L,L,M,L,M,M,L,S,S,S,S,S,M,L,L,M,M,M,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Rajasthan,Ajmer,L,L,M,L,L,L,M,L,M,L,M,M,L,M,S,S,S,M,M,S,L,S,M,M,M,M,S,M,M,S,L,S,S,S,S,S,M,S,L,M,S,L,L,L,L,M,S,L,M,S,L,S,S,S,S,S,S,M,M,M,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Rajasthan,Alwar,L,L,L,L,L,L,M,L,M,L,M,M,L,M,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,M,S,L,L,L,L,S,S,L,S,S,L,S,S,S,S,S,S,M,S,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Rajasthan,Banswara,M,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,S,M,M,M,L,S,L,S,S,M,S,S,L,S,L,S,S,S,S,M,S,S,M,S,S,L,S,S,L,S,S,L,S,S,L,S,S,S,S,S,M,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,M,M,S
+Rajasthan,Baran,L,L,M,L,L,L,M,L,M,M,S,S,L,S,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,L,M,L,S,S,M,S,S,M,S,S,S,S,S,S,M,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Rajasthan,Barmer,M,L,M,L,L,L,M,M,M,L,M,S,L,M,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,S,S,L,S,S,L,S,S,L,S,S,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Rajasthan,Bharatpur,L,L,L,L,L,L,M,L,M,L,M,M,L,S,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,L,L,M,L,S,S,L,S,S,M,S,S,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Rajasthan,Bhilwara,M,L,M,L,L,L,M,L,M,L,S,S,L,M,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,S,S,L,S,S,M,L,L,L,S,S,L,S,S,L,S,S,S,S,S,M,M,M,M,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Rajasthan,Bikaner,M,L,M,L,L,L,M,L,M,L,M,M,L,M,S,S,M,M,M,S,L,S,M,M,M,M,S,M,M,S,L,S,S,S,S,S,M,S,L,M,S,L,M,M,L,M,S,L,M,M,L,S,S,S,S,S,S,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Rajasthan,Bundi,M,L,M,L,L,L,M,L,M,L,S,S,L,S,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,L,S,S,L,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Rajasthan,Chittaurgarh,M,L,M,L,L,L,M,L,M,M,S,S,L,S,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,L,S,S,L,L,L,L,S,S,L,S,S,L,S,S,S,S,S,M,M,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Rajasthan,Churu,L,L,M,L,L,L,M,M,M,L,M,M,L,L,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,M,M,L,M,S,L,L,M,L,M,M,L,M,M,L,S,S,S,S,S,S,S,S,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Rajasthan,Dausa,L,L,M,L,L,L,M,L,M,L,S,M,L,S,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,M,S,S,L,L,M,L,S,S,L,S,S,L,S,S,S,S,S,S,S,S,L,S,S,M,M,M,L,M,M,S,S,S,S,L,L,L,S,S,S
+Rajasthan,Dhaulpur,L,L,L,L,L,L,M,M,M,L,S,M,L,S,S,S,S,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Rajasthan,Dungarpur,M,L,M,L,L,L,M,L,M,L,M,M,L,M,S,S,S,M,M,M,L,S,L,S,M,M,S,S,M,S,L,S,S,S,S,M,S,S,M,S,S,L,M,M,L,S,S,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,M,M,S
+Rajasthan,Ganganagar,L,L,M,L,L,L,M,L,M,S,S,S,L,S,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,S,L,M,L,M,M,L,L,L,L,L,L,L,M,M,L,M,M,S,S,S,S,S,S,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Rajasthan,Hanumangarh,L,L,M,L,L,L,M,L,M,M,S,S,L,M,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,S,L,M,L,M,M,L,L,L,L,L,L,L,M,M,L,S,S,S,S,S,S,S,S,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Rajasthan,Jaipur,L,L,L,L,L,L,M,L,M,L,M,M,L,M,S,S,S,M,M,S,L,S,M,M,M,M,S,M,M,S,L,S,S,M,S,M,M,S,L,M,S,L,L,L,L,M,S,L,M,S,L,S,S,S,M,S,M,S,S,S,M,S,L,L,L,L,S,S,S,S,S,S,L,M,L,S,S,S
+Rajasthan,Jaisalmer,M,L,M,L,L,L,M,M,M,M,M,S,L,M,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,M,S,L,S,S,M,S,S,M,M,M,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Rajasthan,Jalor,M,L,M,L,L,L,M,M,M,L,L,M,L,L,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,L,M,S,L,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Rajasthan,Jhalawar,M,L,M,L,L,L,M,L,M,M,S,S,L,S,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,S,S,M,S,S,L,L,L,L,S,S,L,S,S,M,S,S,S,S,S,S,M,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Rajasthan,Jhunjhunun,L,L,L,L,L,L,M,M,M,L,M,M,L,L,S,S,M,M,M,M,S,S,L,S,L,S,S,L,S,S,L,S,S,S,S,S,S,S,L,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,S,M,S,L,M,S,L,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Rajasthan,Jodhpur,M,L,M,L,L,L,M,L,M,L,M,M,L,M,S,S,S,M,M,S,L,S,M,M,M,M,S,M,M,S,L,S,S,S,S,S,M,S,L,M,S,L,M,M,L,M,S,L,M,S,L,S,M,S,S,S,L,S,S,S,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Rajasthan,Karauli,M,L,M,L,L,L,M,M,M,L,M,M,L,M,S,S,S,M,M,M,S,S,L,S,M,M,S,S,M,S,M,M,S,S,S,S,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,M,L,S,M,S,S,S,S,M,M,M,S,S,S
+Rajasthan,Kota,L,L,L,L,L,L,M,L,M,M,S,S,L,S,S,S,S,M,M,S,L,S,M,M,M,M,S,M,M,S,L,S,S,S,S,S,M,S,L,M,S,L,L,L,L,M,S,L,M,S,L,S,S,S,S,S,M,M,M,M,M,S,M,L,L,L,S,S,S,S,S,S,M,L,M,S,S,S
+Rajasthan,Nagaur,M,L,M,L,L,L,M,M,M,L,M,M,L,L,S,S,M,M,M,M,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,S,S,S,M,S,S,M,M,M,L,M,S,L,M,M,L,S,S,S,S,S,S,M,S,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Rajasthan,Pali,M,L,M,L,L,L,M,M,M,L,M,M,L,M,S,S,S,M,M,S,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,S,M,S,L,M,S,L,L,L,L,S,S,L,M,S,L,S,S,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Rajasthan,Pratapgarh,M,L,M,L,L,L,M,L,M,M,S,S,L,S,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,S,S,M,S,S,M,M,M,L,S,S,L,S,S,L,S,S,S,S,S,M,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,M,M,S
+Rajasthan,Rajsamand,M,L,M,L,L,L,M,L,M,M,S,S,L,M,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,S,S,L,S,S,L,L,L,L,S,S,L,S,S,L,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Rajasthan,Sawai Madhopur,M,L,M,L,L,L,M,L,M,L,M,M,L,M,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,L,M,M,L,S,S,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Rajasthan,Sikar,L,L,L,L,L,L,M,M,M,L,M,M,L,M,S,S,M,M,M,S,L,S,L,S,L,S,S,M,S,S,L,S,S,S,S,S,S,S,L,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,S,M,S,M,S,S,L,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Rajasthan,Sirohi,M,L,M,L,L,M,M,L,S,L,M,M,L,M,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,S,S,S,M,M,S,L,M,M,L,S,S,L,S,S,L,S,S,S,S,S,S,M,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,M,S
+Rajasthan,Tonk,M,L,M,L,L,L,M,M,M,M,S,S,L,S,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,L,S,S,L,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,M,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,L,M,S,S,S
+Rajasthan,Udaipur,M,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,S,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,L,S,S,L,M,M,L,S,S,L,S,S,L,S,S,S,S,S,M,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,M,M,S
+Sikkim,East District,L,L,L,L,L,L,L,L,L,L,M,M,L,M,S,M,L,M,M,M,L,S,M,M,M,S,S,M,M,S,L,S,S,M,S,M,M,S,L,M,M,L,L,L,L,L,L,L,L,M,L,S,S,S,S,S,M,M,M,M,M,S,L,L,L,L,S,S,S,S,S,S,L,M,L,S,S,S
+Sikkim,North  District,L,L,L,L,L,L,L,L,L,L,M,M,L,S,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,S,M,S,L,L,L,L,L,L,L,M,M,L,S,S,S,S,S,S,M,M,L,S,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Sikkim,South District,L,L,L,L,L,L,L,L,L,L,M,M,L,M,S,M,L,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,L,M,M,L,L,L,L,L,L,L,M,M,L,S,S,S,S,S,S,M,S,L,S,S,L,M,M,L,M,M,S,S,S,S,M,M,L,S,S,S
+Sikkim,West District,L,L,L,L,L,L,L,L,L,L,M,M,L,M,S,M,L,M,M,M,L,M,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,L,M,M,M,L,L,L,L,L,L,M,M,L,S,S,S,S,S,S,S,S,M,S,S,L,M,M,L,M,M,S,S,S,S,L,L,L,S,S,S
+Tamil Nadu,Ariyalur,L,L,L,L,L,L,M,L,M,L,L,L,L,L,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,M,M,L,S,S,S,L,L,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Chennai,L,L,S,L,L,S,L,L,S,S,S,S,S,S,S,S,S,M,M,S,L,L,S,L,L,S,S,L,S,S,L,S,S,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,L,L,L,S,S,S,L,L,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Tamil Nadu,Coimbatore,L,L,L,L,L,L,L,L,M,L,L,L,L,L,S,M,L,M,M,S,L,S,S,L,L,S,S,L,S,S,L,S,S,M,S,M,L,L,L,M,M,L,L,L,L,L,S,L,L,M,L,S,S,S,M,S,M,M,M,M,L,M,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Cuddalore,L,L,L,L,L,L,L,L,M,L,M,M,L,L,S,S,L,M,M,S,L,S,M,M,M,M,S,M,M,S,L,S,S,M,S,M,M,M,M,M,S,M,L,L,L,M,S,L,S,S,M,S,S,S,S,S,M,S,S,S,M,S,L,L,M,L,S,M,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Dharmapuri,L,L,M,L,L,L,M,L,M,L,M,M,L,M,S,S,L,M,M,M,L,S,L,S,M,S,S,M,S,S,L,S,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Dindigul,L,L,L,L,L,L,L,L,M,L,L,L,L,L,M,M,L,M,M,M,L,S,M,M,L,S,S,L,S,S,L,S,S,S,S,M,M,M,M,S,S,M,L,L,L,S,S,M,M,S,L,S,S,S,S,S,S,M,S,M,M,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Erode,L,L,M,L,L,L,M,L,M,L,L,M,L,L,S,S,L,M,M,M,L,S,M,M,L,S,S,L,S,S,L,S,S,S,S,M,M,M,L,M,S,M,L,L,L,M,M,M,M,M,L,S,S,S,S,S,M,S,S,M,M,M,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Kancheepuram,L,L,L,L,L,L,L,L,L,L,M,S,L,L,S,S,L,M,M,S,L,S,M,M,L,S,S,M,S,S,L,S,S,M,M,L,M,M,M,M,S,M,L,L,L,M,S,L,L,M,L,S,S,S,M,S,M,S,S,S,M,M,L,L,M,L,S,M,S,S,S,S,M,M,L,S,S,S
+Tamil Nadu,Kanniyakumari,L,L,L,L,L,L,L,L,L,L,L,L,L,L,M,M,L,M,M,S,L,S,S,L,M,M,S,M,M,S,M,S,S,M,M,M,M,M,M,M,M,M,L,L,L,L,L,L,M,M,M,S,S,S,S,S,S,S,M,S,M,M,M,L,L,L,S,S,S,S,S,S,M,L,M,S,S,S
+Tamil Nadu,Karur,L,L,L,L,L,L,L,L,M,L,L,L,L,L,S,M,L,M,M,M,L,S,M,M,L,S,S,L,S,S,L,S,S,M,S,M,M,M,L,M,S,M,L,L,L,M,S,L,M,S,L,S,S,S,S,S,M,S,S,S,M,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Krishnagiri,L,L,L,L,L,L,M,L,M,L,M,M,L,L,S,S,L,M,M,M,L,S,L,S,L,S,S,M,S,S,L,S,S,M,S,M,M,M,M,S,S,M,L,L,L,S,S,L,M,S,L,S,S,S,S,S,M,S,S,S,M,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Madurai,L,L,L,L,L,L,L,L,M,L,M,M,L,L,S,S,L,M,M,S,L,S,M,M,L,S,S,M,S,S,L,S,S,M,M,L,M,M,L,M,S,M,L,L,L,M,S,L,M,S,L,S,S,S,M,S,M,S,S,S,M,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Nagapattinam,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,M,M,M,M,S,S,M,L,L,L,M,S,L,S,S,M,S,S,S,S,S,S,S,S,S,M,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Namakkal,L,L,L,L,L,L,M,L,M,L,M,L,L,L,S,M,L,M,M,M,L,S,M,M,L,S,S,L,S,S,L,S,S,S,S,M,M,M,L,S,S,M,L,L,L,M,S,M,M,M,M,S,S,S,S,S,S,S,S,M,M,M,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Perambalur,L,L,L,L,L,L,M,L,M,L,L,L,L,L,S,M,L,M,M,M,L,S,L,S,L,S,S,L,S,S,L,S,S,M,M,M,S,S,M,S,S,M,L,L,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Pudukkottai,L,L,L,L,L,L,L,L,M,L,M,M,L,L,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,M,M,L,S,S,M,L,L,L,S,S,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Ramanathapuram,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,S,L,M,M,S,L,S,L,S,M,S,S,M,M,S,L,S,S,M,S,M,S,S,S,S,S,S,L,L,L,M,S,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Salem,L,L,M,L,L,L,M,L,M,L,M,M,L,L,S,S,L,M,M,M,L,S,M,M,L,S,S,M,S,S,L,S,S,M,S,M,M,M,L,S,S,M,L,L,L,M,S,M,M,S,M,S,S,S,S,S,S,S,S,M,M,M,M,L,M,L,S,M,S,S,S,S,M,S,M,S,S,S
+Tamil Nadu,Sivaganga,L,L,L,L,L,L,L,L,M,L,M,M,L,L,S,S,L,M,M,M,L,S,L,S,L,S,S,M,S,S,L,S,S,M,S,M,M,M,M,S,S,M,L,L,L,M,S,L,M,S,L,S,S,S,S,S,S,S,S,M,M,S,M,L,M,L,S,M,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Thanjavur,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,S,L,M,M,S,L,S,M,M,M,M,S,M,M,S,L,S,S,S,S,M,S,S,S,M,S,M,L,L,L,M,S,L,M,S,M,S,S,S,S,S,M,S,S,S,M,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,The Nilgiris,L,L,L,L,L,L,L,L,L,L,L,L,L,L,M,M,L,M,M,M,L,S,M,M,M,S,S,M,M,S,L,S,S,M,M,M,L,M,L,M,S,M,L,L,L,M,S,M,M,M,L,S,S,S,S,S,S,M,M,M,M,M,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Theni,L,L,L,L,L,L,L,L,M,L,L,L,L,L,M,S,L,M,M,M,L,S,M,M,M,M,S,M,M,S,M,M,S,S,S,S,M,M,M,S,S,S,L,L,L,M,M,M,M,M,L,S,S,S,S,S,S,M,M,M,M,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Thiruvallur,L,L,L,L,L,L,L,L,M,L,M,M,L,L,S,S,L,M,M,S,L,S,M,M,L,S,S,M,S,S,L,S,S,M,M,L,M,M,M,M,S,M,L,L,L,L,S,L,L,M,L,S,S,S,M,S,M,S,S,S,M,M,L,L,M,L,S,M,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Thiruvarur,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,L,S,S,S,S,M,S,S,S,S,S,M,L,L,L,M,S,L,S,S,M,S,S,S,S,S,S,S,S,S,M,S,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Thoothukkudi,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,S,L,M,M,S,L,S,M,M,L,S,S,M,M,S,L,S,S,M,M,M,M,M,L,S,S,M,L,L,L,M,S,L,M,S,L,S,S,S,S,S,S,S,S,M,M,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Tiruchirappalli,L,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,L,M,M,S,L,S,M,M,L,S,S,L,S,S,L,S,S,M,M,M,M,M,L,M,S,M,L,L,L,M,S,L,M,S,L,S,S,S,S,S,M,S,S,S,M,S,L,L,M,L,S,M,S,S,S,S,M,M,L,S,S,S
+Tamil Nadu,Tirunelveli,L,L,L,L,L,L,L,L,L,L,M,L,L,L,S,S,L,M,M,M,L,S,M,M,L,S,S,L,S,S,L,S,S,M,M,M,L,L,L,M,S,M,L,L,L,M,S,M,M,M,M,S,S,S,S,S,S,M,M,M,M,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Tiruppur,L,L,L,L,L,L,L,L,M,L,L,L,L,L,S,M,L,M,M,M,L,S,M,M,L,S,S,L,S,S,L,S,S,S,S,S,L,M,L,M,S,M,L,L,L,M,S,L,M,M,L,S,S,S,S,S,M,S,S,M,L,M,L,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Tiruvannamalai,L,L,L,L,L,L,M,L,M,L,M,M,L,L,S,S,L,M,M,M,L,S,L,S,L,S,S,L,S,S,L,S,S,M,M,M,M,M,M,S,S,M,L,L,L,S,S,M,S,S,L,S,S,S,S,S,S,S,S,M,S,S,M,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Vellore,L,L,L,L,L,L,L,L,M,L,M,M,L,L,S,S,L,M,M,S,L,S,M,M,L,S,S,L,S,S,L,S,S,M,M,M,M,M,M,M,S,M,L,L,L,M,S,L,M,S,L,S,M,S,S,S,M,S,S,M,M,S,L,L,M,L,S,M,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Viluppuram,L,L,L,L,L,L,M,L,M,L,M,M,L,L,S,S,L,M,M,M,L,S,L,S,M,M,S,M,M,S,L,S,S,M,S,M,M,M,M,S,S,M,L,L,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,S,S,S,L,M,M,L,M,M,S,S,S,S,M,M,M,S,S,S
+Tamil Nadu,Virudhunagar,L,L,L,L,L,L,L,L,L,L,M,M,L,L,S,S,L,M,M,M,L,S,M,M,L,S,S,L,S,S,L,S,S,M,M,M,M,M,M,S,S,S,L,L,L,S,S,M,M,S,M,S,S,S,S,S,S,M,M,M,M,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Tripura,Dhalai,L,L,L,L,L,L,L,L,L,L,M,M,L,S,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,M,M,L,L,M,L,S,S,S,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,L,L,L,M,M,S
+Tripura,North Tripura,L,L,L,L,L,L,L,L,L,L,L,M,L,M,S,S,L,M,M,S,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,M,M,L,L,L,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,M,M,S
+Tripura,South Tripura,L,L,L,L,L,L,L,L,L,L,L,M,L,M,S,S,L,M,M,S,L,M,L,S,M,M,S,M,M,S,L,S,S,S,S,S,S,S,M,S,S,M,M,M,L,L,L,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,M,S
+Tripura,West Tripura,L,L,L,L,L,L,L,L,L,L,L,L,L,M,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,S,S,S,M,M,M,L,L,L,L,L,L,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Agra,L,L,L,L,L,L,M,M,M,L,S,S,L,M,S,S,L,S,M,S,L,S,M,M,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,M,S,L,L,L,L,M,S,L,M,S,L,S,M,S,S,S,S,L,L,L,M,S,L,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Uttar Pradesh,Aligarh,L,L,L,L,L,L,M,M,M,L,S,S,L,S,S,S,L,S,M,S,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,M,M,L,M,S,L,M,S,L,M,S,M,S,S,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,L,M,S,S,S
+Uttar Pradesh,Allahabad,L,L,L,L,L,L,M,L,M,L,M,S,M,M,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,S,S,S,L,M,S,L,M,S,L,S,S,L,S,S,L,S,S,S,S,S,M,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Ambedkar Nagar,L,L,L,L,L,L,M,L,M,L,S,S,M,S,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,M,S,S,M,S,S,M,S,S,S,S,S,S,M,M,M,S,S,S,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Auraiya,L,L,L,L,L,L,L,L,L,L,S,S,M,S,S,S,L,S,M,S,S,S,L,S,M,M,S,M,M,S,M,M,S,M,M,M,S,S,M,M,S,L,S,S,L,S,S,L,S,S,M,M,M,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Uttar Pradesh,Azamgarh,L,L,L,L,L,L,M,L,M,M,S,S,L,M,S,S,L,S,M,S,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,L,S,S,M,S,S,M,S,S,S,S,S,M,M,M,S,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Baghpat,L,L,L,L,L,L,M,M,M,L,L,S,L,M,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,M,M,L,M,M,L,M,M,L,M,M,L,S,S,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Bahraich,M,L,M,M,L,M,M,M,M,L,S,S,L,S,S,S,L,S,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,L,S,S,L,S,S,M,S,S,S,S,S,S,S,S,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Uttar Pradesh,Ballia,L,L,L,L,L,L,M,L,M,M,L,S,L,S,S,S,S,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,M,M,M,S,S,S,M,M,L,S,S,M,S,S,M,S,S,M,S,S,S,S,S,M,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Balrampur,M,L,M,M,L,M,M,M,M,L,S,S,L,S,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,L,S,S,L,S,S,M,S,S,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Banda,L,L,M,L,L,L,M,L,M,L,S,S,M,M,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,S,S,M,S,S,L,S,S,L,S,S,M,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Uttar Pradesh,Bara Banki,M,L,M,L,L,L,M,M,M,L,M,S,M,S,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,M,M,L,S,S,M,S,S,L,S,S,M,M,M,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Bareilly,M,M,M,L,L,L,M,M,M,L,L,S,M,M,S,S,M,S,M,S,L,S,M,M,M,M,S,S,M,S,M,M,S,S,S,S,S,S,M,L,L,L,M,S,L,M,M,L,M,S,L,S,S,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,L,M,S,S,S
+Uttar Pradesh,Basti,L,L,M,L,L,L,M,L,M,M,S,S,S,S,S,S,S,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,L,S,S,L,S,S,M,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Bijnor,L,L,L,L,L,L,M,M,M,L,M,S,L,L,S,S,M,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,L,M,L,M,S,L,M,M,L,M,M,L,S,S,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Budaun,M,M,M,M,M,M,M,M,M,L,M,S,M,M,S,S,L,S,M,S,S,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,L,L,L,S,S,M,S,S,L,S,S,M,S,S,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Uttar Pradesh,Bulandshahr,L,L,L,L,L,L,M,M,M,L,M,S,L,S,S,S,L,M,M,S,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,L,L,L,M,S,L,M,S,L,M,S,L,S,S,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Uttar Pradesh,Chandauli,L,L,L,L,L,L,M,L,M,M,L,S,L,M,S,S,M,M,M,S,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,M,S,L,M,S,L,S,S,L,S,S,M,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Chitrakoot,M,L,M,L,L,L,M,L,M,L,S,S,L,S,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Deoria,L,L,L,L,L,L,M,L,M,L,S,S,L,M,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,M,M,M,S,S,S,M,M,L,S,S,L,S,S,M,S,S,M,M,M,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Etah,L,L,L,L,L,L,M,L,M,L,S,S,L,S,S,S,L,S,M,S,L,M,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,L,S,S,L,S,S,M,S,S,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Uttar Pradesh,Etawah,L,L,L,L,L,L,L,L,L,L,M,S,M,M,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,M,M,L,S,S,M,M,S,L,M,S,L,M,S,L,S,S,L,S,M,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Uttar Pradesh,Faizabad,L,L,L,L,L,L,M,L,M,L,S,S,L,S,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,L,S,S,L,S,S,M,M,M,S,S,S,M,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Farrukhabad,L,L,L,L,L,L,M,L,M,L,S,S,M,S,S,S,L,S,M,S,L,S,L,S,M,M,S,S,M,S,M,M,S,M,M,S,S,S,S,M,S,M,S,S,L,M,S,L,S,S,M,M,M,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Uttar Pradesh,Fatehpur,L,L,M,L,L,L,M,L,M,L,S,S,M,S,S,S,L,M,M,S,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,S,S,M,S,S,L,S,S,M,S,S,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Firozabad,L,L,L,L,L,L,M,M,M,L,M,S,M,M,S,S,L,S,M,S,L,S,M,M,M,M,S,M,M,S,M,M,S,M,S,M,S,S,M,M,S,M,M,S,L,M,S,L,S,S,M,S,M,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Uttar Pradesh,Gautam Buddha Nagar,L,L,L,L,L,L,L,L,M,L,M,S,L,M,S,S,L,M,M,S,L,S,M,M,M,S,S,M,M,S,L,S,S,M,S,M,M,S,M,L,L,L,L,M,L,L,M,L,L,M,L,S,S,S,M,S,M,M,L,M,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Ghaziabad,L,L,L,L,L,L,L,L,M,L,M,S,L,M,S,S,L,S,M,S,L,S,S,L,M,M,S,M,M,S,M,M,S,M,S,M,M,S,M,L,L,L,L,M,L,L,M,L,L,M,L,S,S,S,S,S,M,M,L,M,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Ghazipur,L,L,L,L,L,L,M,L,M,M,L,S,L,M,S,S,M,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,M,M,L,S,S,L,S,S,M,S,S,M,S,S,S,S,S,M,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Gonda,M,L,M,L,L,L,M,L,M,L,S,S,L,M,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,S,S,S,M,M,M,L,S,S,L,S,S,L,S,S,M,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Gorakhpur,L,L,L,L,L,L,M,L,M,M,S,S,L,M,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,S,S,S,M,M,M,L,M,S,L,S,S,L,S,S,L,S,S,S,S,S,S,M,M,M,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Hamirpur,L,L,L,L,L,L,M,L,M,L,S,S,M,M,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,S,S,M,S,S,M,S,S,L,S,S,M,M,M,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Hardoi,M,L,M,L,L,L,M,M,M,L,S,S,L,S,S,S,M,S,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,M,S,S,L,S,S,M,M,M,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Jalaun,L,L,L,L,L,L,M,L,M,L,L,S,M,M,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,M,S,M,S,S,M,M,S,L,M,S,L,M,S,L,S,S,M,M,M,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Jaunpur,L,L,L,L,L,L,M,L,M,M,M,S,L,M,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,M,S,L,S,S,L,S,S,L,S,S,M,S,S,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Jhansi,L,L,L,L,L,L,M,L,M,L,L,S,M,M,S,S,M,M,M,S,L,S,M,M,M,M,S,M,M,S,M,S,S,S,S,M,S,S,M,M,S,M,M,S,L,M,S,L,M,S,M,S,M,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Jyotiba Phule Nagar,M,M,M,L,L,L,M,M,M,L,S,S,M,S,S,S,L,S,M,S,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,L,L,L,S,S,L,M,M,L,M,S,L,S,S,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Kannauj,L,L,L,L,L,L,M,M,M,L,M,S,L,M,S,S,L,S,M,S,L,M,L,S,M,M,S,S,M,S,M,M,S,M,M,M,S,S,M,S,S,M,S,S,M,S,S,L,S,S,M,M,M,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Kanpur Dehat,L,L,L,L,L,L,L,L,M,L,S,S,M,S,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,S,S,S,L,S,S,M,S,S,M,S,S,M,M,M,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Kanpur Nagar,L,L,L,L,L,L,L,L,M,L,S,S,L,S,S,S,L,M,M,S,L,S,M,M,M,M,S,M,M,S,M,M,S,M,S,M,S,S,M,M,S,L,M,S,L,M,S,L,M,S,L,S,M,S,M,S,M,M,M,M,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Kanshiram Nagar,M,M,M,L,L,L,M,M,M,L,S,S,L,M,S,S,L,S,M,S,S,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,M,L,M,L,S,S,M,S,S,L,S,S,M,S,S,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Uttar Pradesh,Kaushambi,M,L,M,L,L,L,M,M,M,L,S,S,M,S,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,S,S,M,S,S,M,S,S,M,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Kheri,M,L,M,L,L,L,M,M,M,L,L,S,M,M,S,S,M,S,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,M,S,S,L,S,S,M,S,S,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Kushinagar,M,L,M,L,L,L,M,L,M,L,L,S,L,M,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,M,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Lalitpur,M,L,M,L,L,L,M,L,M,L,S,S,L,M,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,M,S,L,S,S,M,S,S,M,S,S,S,S,S,S,M,S,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Lucknow,L,L,L,L,L,L,L,L,M,L,M,S,L,S,S,S,L,M,M,S,L,S,M,M,M,M,S,M,M,S,M,S,S,S,S,S,M,S,L,M,S,L,L,S,L,M,S,L,M,S,L,S,M,S,M,S,M,M,M,M,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Mahamaya Nagar,L,L,L,L,L,L,M,M,M,L,S,S,L,S,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,M,M,L,M,M,L,S,S,L,S,S,M,S,S,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Uttar Pradesh,Mahoba,M,L,M,L,L,L,M,M,M,L,S,S,L,S,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,M,S,M,S,S,S,S,S,S,S,S,M,S,S,M,S,S,M,S,S,S,S,S,S,M,M,L,S,S,S,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Mahrajganj,M,L,M,L,L,L,M,L,M,L,L,S,L,M,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,M,M,L,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,M,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Mainpuri,L,L,L,L,L,L,M,L,M,L,M,L,L,S,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,M,M,L,S,S,S,M,M,L,S,S,L,S,S,L,S,S,M,S,M,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+Uttar Pradesh,Mathura,L,L,L,L,L,L,M,M,M,L,M,S,L,M,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,M,M,L,L,M,L,M,S,L,M,S,L,S,S,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Mau,L,L,L,L,L,L,M,L,M,M,M,S,L,S,S,S,S,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,M,M,S,S,S,S,M,M,L,M,M,L,S,S,M,S,S,M,S,S,S,S,S,M,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Meerut,L,L,L,L,L,L,M,L,M,L,M,S,L,M,S,S,L,S,M,S,L,M,M,M,M,M,S,M,M,S,M,M,S,S,S,M,M,S,M,L,L,L,L,M,L,L,M,L,M,M,L,S,S,S,S,S,S,L,L,L,M,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Mirzapur,L,L,L,L,L,L,M,L,M,L,L,S,M,M,S,S,L,M,M,S,S,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,M,S,L,S,S,L,S,S,M,S,S,S,S,S,M,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Moradabad,M,M,M,M,L,M,M,M,M,L,M,S,L,S,S,S,L,S,M,S,L,S,L,S,M,M,S,S,M,S,M,M,S,S,S,S,S,S,M,L,L,L,M,S,L,M,M,L,M,S,L,S,S,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,L,M,S,S,S
+Uttar Pradesh,Muzaffarnagar,L,L,L,L,L,L,M,M,M,L,L,S,L,M,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,L,M,L,M,M,L,M,M,L,M,M,L,S,S,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,L,M,S,S,S
+Uttar Pradesh,Pilibhit,M,M,M,L,L,L,M,M,M,L,M,S,M,S,S,S,M,S,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,L,L,L,S,S,M,M,M,L,S,S,M,S,S,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Pratapgarh,L,L,L,L,L,L,M,L,M,L,S,S,M,M,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,S,S,S,M,S,S,M,S,S,L,S,S,M,S,S,M,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Rae Bareli,L,L,M,L,L,L,M,L,M,L,L,S,M,M,S,S,L,M,M,S,L,M,M,M,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,M,M,L,S,S,L,S,S,M,S,M,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Rampur,M,M,M,M,M,M,M,M,M,L,M,S,L,S,S,S,L,S,M,S,L,S,L,S,M,M,S,S,M,S,M,M,S,S,S,M,S,S,M,L,L,L,S,S,L,M,M,L,M,S,L,S,S,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,L,M,S,S,S
+Uttar Pradesh,Saharanpur,L,L,L,L,L,L,M,L,M,M,L,S,L,L,S,S,S,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,L,M,L,L,M,L,M,M,L,M,M,L,S,M,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+Uttar Pradesh,Sant Kabir Nagar,L,L,M,L,L,L,M,L,M,M,L,S,L,M,S,S,M,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,M,M,L,S,S,L,S,S,M,S,S,M,M,M,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Sant Ravidas Nagar (Bhadohi),L,L,L,L,L,L,M,M,M,M,S,S,L,M,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,S,S,M,M,S,L,S,S,M,S,S,M,S,S,S,S,S,M,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Shahjahanpur,M,M,M,L,L,L,M,M,M,L,L,S,M,M,S,S,M,S,M,S,L,M,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,L,M,L,S,S,L,M,S,L,S,S,M,S,S,S,S,S,S,L,L,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Shrawasti,M,M,M,M,L,M,M,M,M,L,S,S,L,S,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,M,M,L,S,S,M,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Siddharthnagar,M,L,M,L,L,L,M,M,M,M,S,S,S,S,S,S,S,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,M,M,M,S,S,M,S,S,M,S,S,M,S,S,S,S,S,S,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Sitapur,M,L,M,L,L,L,M,L,M,L,L,S,M,M,S,S,L,S,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,M,M,M,L,S,S,M,S,S,L,S,S,M,S,M,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Sonbhadra,M,L,M,L,L,L,M,L,M,M,S,S,L,M,S,S,L,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,S,S,M,S,S,L,S,S,L,S,S,M,S,S,S,S,S,M,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Sultanpur,L,L,L,L,L,L,M,L,M,L,S,S,L,M,S,S,L,S,M,S,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,S,S,S,M,M,M,L,M,M,L,S,S,L,S,S,M,S,S,S,S,S,M,M,M,M,S,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttar Pradesh,Unnao,M,L,M,L,L,L,M,L,M,L,L,S,M,M,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,S,S,S,S,M,S,L,S,S,M,S,S,L,S,S,M,M,M,S,S,S,S,M,M,L,S,S,M,L,L,L,S,S,S,S,S,S,L,L,M,S,S,S
+Uttar Pradesh,Varanasi,L,L,L,L,L,L,L,L,M,L,L,S,L,M,S,S,L,S,M,S,L,M,M,M,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,M,S,L,M,M,L,M,S,L,M,S,L,S,S,S,M,S,L,S,S,S,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttarakhand,Almora,L,L,L,L,L,L,L,L,L,M,S,S,L,S,S,S,S,M,M,M,L,S,L,S,L,S,S,L,S,S,L,S,S,S,S,M,M,M,L,S,S,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,M,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttarakhand,Bageshwar,L,L,L,L,L,L,L,L,L,M,L,S,L,S,S,S,S,M,M,M,L,S,L,S,L,S,S,L,S,S,L,S,S,M,M,L,M,M,L,S,S,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,M,S,S,S,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttarakhand,Chamoli,L,L,L,L,L,L,L,L,L,L,S,S,L,S,S,S,S,M,M,M,L,S,L,S,L,S,S,L,S,S,L,S,S,M,M,L,M,M,L,M,S,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,S,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttarakhand,Champawat,L,L,L,L,L,L,L,L,M,M,L,S,L,S,S,S,S,M,M,S,L,S,L,S,M,M,S,M,M,S,M,S,S,M,M,M,M,M,L,M,S,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,S,S,S,L,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttarakhand,Dehradun,L,L,L,L,L,L,L,L,L,L,S,S,L,M,S,S,M,M,M,S,L,S,M,M,L,S,S,L,S,S,L,S,S,M,M,L,L,M,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,M,S,M,M,M,M,L,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttarakhand,Garhwal,L,L,L,L,L,L,L,L,L,M,M,S,L,S,S,S,S,M,M,M,L,S,L,S,L,S,S,L,S,S,L,S,S,M,M,M,M,M,L,M,S,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,M,S,S,M,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttarakhand,Hardwar,L,L,L,L,L,L,M,L,M,L,L,S,L,M,S,S,L,S,M,S,L,S,M,M,M,M,S,M,M,S,L,S,S,M,S,M,M,S,M,L,L,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,M,L,L,M,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttarakhand,Nainital,L,L,L,L,L,L,L,L,L,M,L,S,L,M,S,S,M,M,M,S,L,S,M,M,L,S,S,M,S,S,L,S,S,M,M,L,M,M,L,M,M,L,L,L,L,L,L,L,L,M,L,S,S,S,S,S,M,M,S,M,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttarakhand,Pithoragarh,L,L,L,L,L,L,L,L,L,M,S,S,L,S,S,S,S,M,M,M,L,S,L,S,L,S,S,L,S,S,L,S,S,M,M,L,M,M,L,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,M,S,S,M,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttarakhand,Rudraprayag,L,L,L,L,L,L,L,L,L,L,S,S,L,M,S,S,S,M,M,M,S,S,L,S,L,S,S,L,S,S,L,S,S,M,M,L,M,M,L,S,S,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,M,S,S,M,M,M,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttarakhand,Tehri Garhwal,L,L,L,L,L,L,M,L,M,L,S,S,L,M,S,S,S,M,M,M,L,S,L,S,L,S,S,L,S,S,L,S,S,M,M,L,M,M,L,S,S,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,L,S,S,S,M,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttarakhand,Udham Singh Nagar,L,L,L,L,L,L,M,L,M,L,L,S,L,S,S,S,L,M,M,S,L,M,M,M,M,M,S,M,M,S,M,M,S,S,S,S,S,S,M,L,L,L,L,L,L,L,M,L,M,M,L,S,S,S,S,S,S,M,M,L,M,S,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+Uttarakhand,Uttarkashi,L,L,L,L,L,L,M,L,M,L,S,S,L,S,S,S,S,M,M,M,S,S,L,S,L,S,S,L,S,S,L,S,S,M,M,L,M,M,L,M,M,L,L,L,L,M,M,L,M,M,L,S,S,S,S,S,M,S,S,M,S,S,L,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+West Bengal,Bankura,L,L,L,L,L,L,M,L,M,L,M,S,L,M,S,S,S,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+West Bengal,Barddhaman,L,L,L,L,L,L,L,L,M,L,M,S,L,M,S,S,M,M,M,S,L,S,M,M,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,M,S,M,M,M,L,M,M,L,M,S,M,S,S,S,S,S,S,M,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+West Bengal,Birbhum,L,L,L,L,L,L,M,L,M,L,M,S,L,M,S,S,M,M,M,S,L,M,L,S,M,M,S,S,M,S,M,M,S,S,S,M,S,S,M,S,S,M,M,M,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+West Bengal,Dakshin Dinajpur,L,L,L,L,L,L,L,L,M,L,M,S,L,S,S,S,M,M,M,S,L,M,L,S,M,M,S,S,M,S,M,M,S,S,S,M,S,S,S,M,S,L,M,M,L,M,S,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,S,M,S,S,S
+West Bengal,Darjiling,L,L,L,L,L,L,L,L,M,L,M,S,L,S,S,S,M,M,M,S,L,S,M,M,M,M,S,M,M,S,M,S,S,S,S,M,S,S,M,M,S,M,L,L,L,M,M,L,M,S,L,S,S,S,S,S,S,M,S,M,M,S,L,L,M,L,S,M,S,S,S,S,M,M,L,S,S,S
+West Bengal,Haora,L,L,L,L,L,L,L,L,L,L,L,S,L,M,S,S,M,M,M,S,L,S,M,M,M,M,S,M,M,S,M,M,S,M,S,M,S,S,M,S,S,M,L,M,L,L,M,L,M,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+West Bengal,Hugli,L,L,L,L,L,L,L,L,L,L,M,S,L,M,S,S,M,M,M,S,L,M,M,M,M,M,S,M,M,S,M,M,S,M,S,M,S,S,M,M,S,M,L,L,L,L,M,L,M,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+West Bengal,Jalpaiguri,L,L,L,L,L,L,M,L,M,L,L,M,L,M,S,S,M,M,M,S,L,M,L,S,M,M,S,S,M,S,M,M,S,S,S,S,S,S,S,M,M,M,M,S,L,M,M,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+West Bengal,Koch Bihar,L,L,L,L,L,L,L,L,M,L,M,S,L,S,S,S,M,M,M,S,L,M,L,S,S,M,S,S,M,S,M,M,S,S,S,S,S,S,S,L,L,L,S,S,L,M,M,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,M,M,M,S
+West Bengal,Kolkata,L,L,S,L,L,S,L,L,S,S,S,S,S,S,S,S,S,M,M,S,L,S,S,L,M,S,S,M,S,S,M,S,S,M,M,M,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,S,S,S,L,L,L,S,S,S,M,M,M,L,L,L,S,S,S,S,S,S,L,L,L,S,S,S
+West Bengal,Maldah,M,L,M,M,L,M,M,L,M,L,M,S,L,S,S,S,M,M,M,S,L,S,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,M,M,S,M,M,S,L,S,S,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,S,S,M,M,M,S
+West Bengal,Murshidabad,M,L,M,L,L,L,M,L,M,L,M,S,L,M,S,S,M,M,M,S,L,M,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,M,M,M,M,S,M,M,M,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,M,S,M,M,M,S
+West Bengal,Nadia,L,L,L,L,L,L,L,L,L,L,M,S,L,M,S,S,M,M,M,S,L,M,L,S,M,M,S,S,M,S,M,M,S,S,S,M,S,S,S,L,M,L,M,M,L,L,L,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,S,M,S,S,S
+West Bengal,North Twenty Four Parganas,L,L,L,L,L,L,L,L,L,L,L,S,L,M,S,S,M,M,M,S,L,S,M,M,M,M,S,M,M,S,M,M,S,M,S,M,S,S,M,M,M,L,L,M,L,L,L,L,M,S,M,S,S,S,S,S,S,M,S,M,M,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+West Bengal,Paschim Medinipur,L,L,L,L,L,L,L,L,L,L,M,S,L,S,S,S,S,M,M,S,L,S,L,S,M,M,S,M,M,S,M,S,S,S,S,M,S,S,L,S,S,M,M,M,L,M,M,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,M,M,L,S,S,S
+West Bengal,Purba Medinipur,L,L,L,L,L,L,L,L,L,L,M,S,L,S,S,S,S,M,M,S,L,M,L,S,M,M,S,S,M,S,M,M,S,S,S,M,S,S,S,S,S,S,M,M,L,L,L,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,S,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+West Bengal,Puruliya,M,L,M,L,L,L,M,L,M,L,M,S,L,S,S,S,S,M,M,S,L,M,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,M,S,S,S,M,S,L,S,S,M,S,S,M,S,S,S,S,S,S,S,S,M,S,S,S,L,L,L,S,S,S,S,S,S,M,M,M,S,S,S
+West Bengal,South Twenty Four Parganas,L,L,L,L,L,L,L,L,L,L,L,S,L,M,S,S,M,M,M,S,L,S,L,S,M,M,S,M,M,S,M,M,S,S,S,M,S,S,M,S,S,S,M,M,L,M,M,L,S,S,M,S,S,S,S,S,S,S,S,S,S,S,M,L,L,L,S,S,S,S,S,S,M,S,M,S,M,S
+West Bengal,Uttar Dinajpur,M,L,M,M,L,M,M,L,M,L,M,S,L,S,S,S,M,M,M,S,L,M,L,S,S,M,S,S,M,S,M,M,S,S,S,M,S,S,S,M,M,L,S,S,L,S,S,L,S,S,M,S,S,S,S,S,S,S,S,M,S,S,M,L,L,L,S,S,S,S,S,S,S,S,M,S,S,S
